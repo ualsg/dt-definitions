@@ -7,3 +7,4 @@ nltk
 xmltodict
 spacy
 python-dotenv
+collections
