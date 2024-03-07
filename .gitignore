@@ -26,3 +26,5 @@
 *.jsonl
 *.zip
 *.tar.gz
+
+/fulltexts/*
