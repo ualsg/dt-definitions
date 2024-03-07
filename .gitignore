@@ -7,7 +7,7 @@
 *.json
 
 # Jupyter Notebooks save history
-# *.py
+*.py
 
 # Jupyter widgets
 .ipynb_checkpoints/
@@ -27,4 +27,4 @@
 *.tar.gz
 
 /fulltexts/*
-# credentials.py
+credentials.py
