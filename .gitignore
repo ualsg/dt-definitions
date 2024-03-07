@@ -1,0 +1,28 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*.ipynb_meta/
+
+# Jupyter kernel metadata
+*.json
+
+# Jupyter Notebooks save history
+*.py
+
+# Jupyter widgets
+.ipynb_checkpoints/
+
+# JupyterLab workspace
+.jupyterlab/
+
+# Virtual environment
+.env/
+
+# Other Jupyter-related files and directories
+/.venv/
+*.json
+*.tsv
+*.csv
+*.jsonl
+*.zip
+*.tar.gz
