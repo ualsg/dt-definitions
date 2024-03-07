@@ -22,7 +22,6 @@
 /.venv/
 *.json
 *.tsv
-*.csv
 *.jsonl
 *.zip
 *.tar.gz
