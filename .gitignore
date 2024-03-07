@@ -27,3 +27,4 @@
 *.tar.gz
 
 /fulltexts/*
+credentials.py
