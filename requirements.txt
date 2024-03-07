@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+OpenAI
+scikit-learn
+nltk
+xmltodict
+spacy

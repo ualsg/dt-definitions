@@ -30,8 +30,8 @@ Make sure to have the corresponding permissions to get access to the data and ot
    ```
 2. Create a new environemnt and activate it
     ```bash
-    Python -m virtualenv <envname>
-    source ./<envname>/bin/activate
+    Python -m virtualenv .venv
+    source ./.venv/bin/activate
     ```
 3. Install the required modules
     ```bash
