@@ -7,4 +7,5 @@ nltk
 xmltodict
 spacy
 python-dotenv
-collections
+simplejson
+seaborn
