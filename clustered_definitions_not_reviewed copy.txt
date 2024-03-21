@@ -597,8 +597,25 @@ digital twin is a holistic term designed to encapsulate the required components 
 Digital twin is a connected and synchronised digital replica of physical assets which represent both the elements and the dynamics of how systems and devices operate within their environment and live throughout their lifecycle
 Digital twin is a concept that combines physical entities with virtual spaces
 digital twin is described as a digital version (a conglomerate of data, information, models, methods, tools, and techniques) of a physical asset that represents and simulates its past and current behaviour
+
+
+comments : 
+most comprehensive definitions:
+
+"Digital twin is a connected, virtual replica of an in-service physical asset — in the form of an integrated multidomain system simulation —which mirrors the life and experience of the asset [1]."
+    Entity: Connected, virtual replica of an in-service physical asset.
+    Function(s): Mirrors the life and experience of the asset (potentially including functionalities like monitoring, prediction, optimization based on the context).
+    Scope: In-service physical assets.
+    Components: Virtual replica, integrated multidomain system simulation (suggests complex models).
+
+"Digital twin is a concept that utilizes digital technologies to mirror the real-time states of physical assets and extract the hidden yet valuable information of physical assets for optimization, decision-making or scheduling [8]."
+    Entity: A concept utilizing digital technologies.
+    Function(s): Mirrors real-time states of physical assets and extracts valuable information for various purposes (optimization, decision-making, scheduling).
+    Scope: Physical assets.
+    Components: Digital technologies, data from physical assets.
+
  ---------------- 
-CLUSTER # 25
+CLUSTER # 25 not a definition
 Digital Twin is a popular trend of the research of Digital Twin in recent year
 Digital twin is a very powerful technology, which has set off a research upsurge in various fields
  ---------------- 
@@ -622,6 +639,22 @@ Digital twin is a virtual representation of a physical existence which has dynam
 digital twin is a precise mapping of physical entities in the information space and the existence of an identical physical entity
 digital twin is a model, a description of things, while the simulation is based on the model of various activities, there is a big difference between the simulation and digital twin, and should not be confused with each other
 digital twin is a high-precision simulation model that corresponds to the physical entity and should have the ability to interact with the physical entity in both directions, and based on the output data of the physical entity
+
+The most comprehensive definition:
+
+"Digital twin is a virtual model of a physical entity, with dynamic, bidirectional links between the physical entity and its corresponding twin in the digital domain [4]."
+
+    Entity: Virtual model of a physical entity.
+    Function(s): Not explicitly mentioned, but the bidirectional links suggest functionalities like monitoring, control, and potentially optimization based on the context.
+    Scope: Physical entities.
+    Components: Virtual model, with dynamic and bidirectional links to the physical entity.
+
+"Digital twin is a technical means to create virtual entities digitally that reflect physical entities and simulate, verify, predict, and control the full lifecycle processes of physical entities with the help of historical data, real-time data, and algorithmic models [6]."
+    Entity: A technical means to create virtual entities.
+    Function(s): Simulate, verify, predict, and control the full lifecycle processes of physical entities.
+    Scope: Physical entities.
+    Components: Virtual entities, historical data, real-time data, and algorithmic models.
+
  ---------------- 
 CLUSTER # 27
 digital twin is a faithful representation of the real system that can be used for decision making
