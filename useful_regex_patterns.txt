@@ -1,0 +1,5 @@
+
+# searches for survey ..... digital twin
+\b(?:survey)\b[^.]*?\b(?:digital\stwin)\b(?=\. )
+
+\b(?:digital\stwin)\b[^.]*?\b(?:survey)\b(?=\. )
