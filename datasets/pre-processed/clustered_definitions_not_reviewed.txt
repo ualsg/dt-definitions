@@ -1,4 +1,16 @@
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 0
 Digital Twins is a transformation of technology in a new dimension and enhancing the research opportunities to solve the complex problems in various industries
 digital twin is a revolutionising technology in the industry 4.0 era
@@ -13,6 +25,18 @@ digital twin is a suitable and beneficial technology for industrial information 
 digital twin is a highly scalable, industry-ready technology that introduces Industry 4.0 capabilities to traditional industrial manufacturing
 Digital twin is a revolution in the digital industry
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 1
 Digital Twin is defined as a software representation of a physical asset, system or process designed to detect, prevent, predict and optimize through real time analytics to deliver business value [140]
 digital twin is described as a virtual replica of an asset or system that is updated from real-time condition monitoring data and employs simulation, machine learning, and reasoning to ensure informed decision-making [41]
@@ -33,6 +57,18 @@ digital twin is a digital representation of a physical asset that can be used to
 digital twin is a virtual replica of physical assets, process, system or service which represents the properties (e.g., the geometry of assets), the condition (e.g., resource status), and the project's performance [9–11]
 digital twin is a virtual replica of a physical asset, such as a dam, that can be used to simulate and test various scenarios, monitor performance, and optimize operations (Haag and Anderl, 2018; Jones et al., 2020; Wagg et al., 2020; Singh et al., 2021; Juarez et al., 2021)
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 2
 digital twin is a collection of digital models that depict every facet of a product from its atomic structure to its macroscopic geometry
 digital twin is a centralized and visual asset management system that can enhance operational efficiency by consolidating various information in the digital model
@@ -43,12 +79,36 @@ digital twin is a collection of efficient computational models that present a vi
 digital twin is a collection of models, simulations, operational data, legacy data, and many more elements
 digital twin is a database reflecting the entire processing, processing technique and product performance, which is conducive to source tracing
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 3
 Digital Twin is a comprehensive model-based solution to develop Digital Twins for asset management enabled through sensor communication
 Digital Twin is a comprehensive model-based solution to develop Digital Tw ns for asset management enabled through sensor communication
 Digital Twin is a c mprehensive m del-based solu ion to devel p Digital Twins for asset manag m nt enabled through se s r communica i n
 Digital Twin is a methodology for developing a DT for asset management
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 4
 digital twin is a computer-generated replica of that system or thing
 digital twin is a virtual instance of a physical system (twin) that is continually updated with the latter’s performance, maintenance, and health status data throughout the physical system’s life cycle
@@ -88,6 +148,18 @@ digital twin is a virtual representation of a production system that can be used
 digital twin is a virtual model of a physical system that functions virtually but is the same as a physical model
 digital twin is a virtual version of a system where it is possible to test the impact of change prior to implementation of the change in the real world
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 5
 Digital twin is a valuable tool for industry 4.0, and refers to the real-time exact digital presentation of a process or service or production system or physical object characterized by its geometry, material, and behavior [206,207]
 digital twin is a cutting-edge technology that has received a lot of attention, which combines several technologies and tools, including Data transmission, collection and processing; Communication-Interaction technology; Modeling-Simulation technology; Sensing-Measurement technology [21]
@@ -99,6 +171,18 @@ digital twin is a vital part of today's Industry 4.0 because of the virtual enti
 Digital twin is a state-of-the-art technology that has a key role in process design and 3D or 4D automation, especially in the fields of engineering, architecture, and medicine
 digital twin is a key part of how Industry 4.0 can provide the benefits it promises, and is essentially a digital replica of the part, process, production line or any other physical entity, which is then linked to the actual object to create a cyber-physical system [16]
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 6
 Digital Twin is a set of virtual information constructs that fully describes a potential or actual physical manufactured product from the micro atomic level to the macro geometrical level
 Digital Twin is a set of virtual information constructs that fully describes a potential or actual physical manufactured product from the micro atomic level to the macro geometrical level
@@ -115,6 +199,18 @@ digital twin is a set of virtual information constructs that fully describes a p
 Digital Twin is a set of virtual information constructs that fully describes a potential or actual physical manufactured product from the micro atomic level to the macro geometrical level
 digital twin is a set of virtual information constructs that fully describes a potential or actual physical manufactured product from the micro atomic level to the macro geometrical level
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 7
 digital twin is a fallacy
 digital twin is a conflict with reality
@@ -131,6 +227,18 @@ digital twins is a challenging task
 digital twins is a challenge that can mitigated using the block chain technology concept which is secure by design to maintain trustworthy data between sensors
 digital twin is a major challenge
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 8
 defined Digital Twin as “an integrated multi-physics, multi-scale, probabilistic simulation of a vehicle or system that uses the best available physical models, sensor updates, fleet history, and so forth, to mirror the life of its flying twin.” It is worth noting that Digital Twins are more than just pure data, they also include models and algorithms, which ensure a maximum concordance between physical and virtual spaces, as well as retroactive actions (feedback) to the physical system
 defined digital twin as “a dynamic and self-evolving digital model or simulation of a real-life subject or object representing the exact state of its physical twin at any given point of time via exchanging the real-time data as well as keeping the historical data
@@ -139,6 +247,18 @@ defined Digital Twin as the one-directional simulation that is obtained by creat
 defined Digital Twin as a bidirectional data link between a physical and virtual system that enables simulation, forecasting, and regulation of the system in real time
 defined Digital Twin as “an integrated multi-physics, multi-scale, probabilistic simulation of a vehicle or system that uses the best available physical models, sensor updates, fleet history, and so forth, to mirror the life of its flying twin [2].” There was limited exploration since then, until 2015, the explosion of machine learning, wireless communication and cloud computing boosted the research activities on Digital Twin
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 9
 digital twin is a virtual replica of the hardware that has been successfully constructed and utilized for different manufacturing processes by many industries and government agencies
 digital twin is a virtual replica that mimics the behaviour of an actual object or process throughout its existence
@@ -147,6 +267,18 @@ digital twin is a virtual model duplicating an IoT device's physical components 
 digital twin is a virtual replica that mimics the behaviour of an actual object or process throughout its existence
 digital twin is defined as a virtual avatar or a simulation that reproduces the behavior of a mechanical part
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 10
 digital twin is described as a digital informational construct of a physical system, created as an entity on its own and linked to the physical system in question [3]
 digital twin is a term used to describe a model or several models of a physical structure, mechanism, process or system, where each model is specifically derived for collection and generation of relevant data [1–3]
@@ -201,6 +333,18 @@ digital twin is a virtual representation of a physical object or system across i
 Digital Twin is a coupled model of a real system, that is stored in a cloud platform and represents its status based on data analysis and physical sensory information [8]
 digital twin is a virtual representation of a real world subject (person, software system, …) or a real world object (machine, component, part of the environment, …)
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 11
 digital twin is a digital model that represents the SC network in real-time and provides end-to-end SC visibility (Ivanov et al., 2019)
 digital twin is a igital mod l that represents the SC network in real-time and provides end-to-end SC visibility (Ivanov et l., 2019)
@@ -209,6 +353,18 @@ digital twin is a more complete view of suppliers, inventories, and other inform
 digital twin is a detailed simulation model of an actual supply chain which uses real- time data/snapshots to forecast supply chain dynamicsâ€� (AnyLogistix, 2020)
 digital twin is a detailed simulation model of an actual supply chain which uses real- time data/s apshots to forecast supply chain dynamicsâ€� (AnyLogistix, 2020)
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 12
 Digital twin is a comprehensive vision and more implementations are expected in the future, including integrating online monitoring and real-time simulation techniques
 Digital twin is a centralized entity gathering data from multiple sources in order to supply right and relevant knowledge to the corresponding physical twin
@@ -227,6 +383,18 @@ digital twin is a lifecycle digital product combined-driven by data and model in
 Digital Twin is a multi-dimensional, multi-space-time scale, and multi-discipline dynamic virtual model of physical entities in a digital way to simulate and describe the properties, behaviors, and rules of physical entities
 Digital twin is a real mapping of all components in the product life cycle using physical data, virtual data and interaction data between them
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 13
 Digital Twin is a complex topic developing over thirty years and still in progress
 Digital Twin is a blurred term [6,8]
@@ -235,6 +403,18 @@ digital twin is a process from small to large and from simple to complex
 Digital Twin is a highly dynamic concept growing in complexity along the product life cycle, which is more than a pool of digital artifacts; Digital Twin has a structure consist of connected elements and meta-information as well as semantics [9]
 digital twin is a highly dynamic concept growing in complexity along the life cycle
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 14
 Digital Twins is a very obvious change in the adaptability of the traffic system
 Digital Twin is defined as a software system, which uses models and services to represent and manipulate a physical system, with a specific goal in focus
@@ -248,24 +428,72 @@ Digital Twin is a constantly evolving system (mutually with its physical counter
 Digital Twin is defined as a set of adaptive models that emulate the behavior of a physical system in a virtual system getting real time data to update itself along its life cycle
 Digital Twin is defined as a set of adaptive models that emulate the behavior of a physical t in a virtual system getting real time data to update itself along its life cycle
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 15
 digital twin is a new area in automotive engineering, there is lack of results showing how to terminate the PSO-based calibration process to achieve the best model accuracy with the least calibration time
 digital twin is a new area in automotiv engineering, there is lack of results showing how to terminate the PSO-based calibration process to achieve the best model accu cy with the least calibration time
 digital twin is a new area in automotive engineering, there is l ck of results showing how to terminate the PSO-based calibration process to achieve the best model accuracy with the least calibration time
 digital twin is a new area in automotiv engineering, there is l ck of results showing how to terminate the PSO-based calibration process to achieve the best model accu cy with the least calibration time
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 16
 Digital twin is a powerful tool for improving renewable energy portfolio management
 Digital twin is a key technology for the continued development of nuclear energy applications
 digital twins is a key technology in smart power plants
 Digital twin is a core technology for smart power plants aiming to increase the safety and efficiency of power generation in low-carbon transitions
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 17
 Digital Twin is a master simulation model for process improvement, equipment monitoring, optimization, and more • One master Digital Twin model can be spawned to many applications, such as, training, equipment monitoring, and real-time optimization to reduce the sustainment costs associated with separate point solutions • No longer need to maintain several process simulation models for a plant— design model, operator training simulator (OTS) model, unit performance monitoring and real-time optimization (RTO) 4.3 Agile Process Design In another engineering discipline, software engineering, work practices have changed significantly over the last 15 years
 Digital Twin is a master simulation model for process improvement, equipment monitoring,optimization, and more • One master Digital Twin model can be spawned to many applications, such as, training, equipment monitoring, and real-time optimization to reduce the sustainment costs associated with separate point solutions• No longer need to maintain several process simulation models for a plant—design model, operator training simulator (OTS) model, unit performance monitoring and real-time optimization (RTO) The role of process engineering in the digital transformation Julien de Beer Conceptualization Writing – review & editing a ⁎ Cal Depew Investigation Methodology Writing – original draft b a Head of Portfolio Management, Engineering, AVEVA, France Head of Portfolio Management, Engineering, AVEVA France aHead of Portfolio Management, Engineering, AVEVA, France b Product Director, Process Simulation, AVEVA, USA Product Director, Process Simulation, AVEVA USA bProduct Director, Process Simulation, AVEVA, USA ⁎ Corresponding author
 digital twin is a tool that can be used for many applications, i.e., the prediction of operational conditions, the verification of the unit capability, flexibility, and operability to achieve a specific goal, as well as, integrated into the monitoring system for online evaluation as a guide to the engineers/operators
 Digital Twin is a master simulation model for process improvement, equipment monitoring, optimization, and more • One master Digital Twin model can be spawned to many applications, such as, training, equipment monitoring, and real time optimization to reduce the sustainment costs associated with separate point solutions • No longer need to maintain several process simulation models for a plant – design model, operator training simulator (OTS) model, unit performance monitoring and real-time optimization (RTO) Revamp The Digital Twin is used for new evaluations since it is always up to date
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 18
 Digital Twin is a key enabling technology of Industry 4.0, Smart Manufacturing and Made in China 2025, and a broad literature emerged
 Digital Twin is a key enabling technology for advances in manufacturing
@@ -281,6 +509,18 @@ Digital twin is a key enabling technology for smart manufacturing [12–14]
 Digital twins is a major digital technology and presents great superiority in industrial manufacturing [16], engineering control [17], smart city [18] and other fields
 digital twin is a key enabler technology to enhance the effectiveness of intelligent manufacturing
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 19
 digital twin is a one-to-one virtual replica of a “technical asset” (e.g., machine, component, and part of the environment)
 digital twin is a digital representation produced by integrating real-world physical properties [18]
@@ -301,11 +541,35 @@ digital twin is a virtual representation of physical assets [5], which correspon
 digital twin is a digital or virtual representative of a physical asset (Nielsen et al., 2020)
 digital twin is a â€œDigital representation of a real world object with focus on the object itselfâ€� [7]
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 20
 digital twin is a comprehensive technology system involving various technologies, which has causes pipeline accidents; 4) Simulation is an important the characteristics of long-term and complexity
 digital twin is a comprehensive technology system involving various technologies, which has causes pip line accidents; 4) Simulation is a important the characteristics of long-term and complexity
 digital twin is a comprehensive technology system inv lving various technologies, which has cause pipeline accidents; 4) Simulatio is an i portant he characteristics of long-term a d complexity
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 21
 Digital Twin is a matter of specifying a set of PD, PM, and PO instances
 Digital twin is a simplified model of the real unit or (section) plant; hence, simplifications and assumptions are determinants to reduce degree of complexity without compromising accuracy as will be shown in the proposed case study
@@ -318,6 +582,18 @@ Digital Twin is a higher-order capability for digital transformation (DTC)
 digital twins is a design method oriented to large-scale individual needs of customers, which can realize the submission of unique single-piece instance products to users
 Digital Twin is a complex information technology concept that utilizes data to realistically represent the behaviour of a physical product for specific use cases
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 22
 Digital Twin is a digital avatar encompassing CPS data and intelligence; it represents structure, semantics and behavior of the associated CPS, providing services to mesh the virtual and physical worlds
 Digital Twin is a virtual CIM composed of various urban data from various models, analyses, and simulations, and social data gathered from citizens
@@ -325,6 +601,18 @@ digital twin is a virtual representation of a physical asset in a CPS, capable o
 Digital twin is a comprehensive digital equivalent of an object, which can reflect both semantic and geometric properties and behaviors using virtual models and data, while Cyber-Physical System (CPS) mainly focuses on the 3 C concepts including computing, communication, and control to achieve real-time sensing, automatic operation, and information integration for industry (Errandonea et al., 2020; Mandolla et al., 2019; Tao et al., 2019)
 defined digital twins as simulation environments which are hosted by, or connected to, the cyber part of CPSs
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 23
 Digital Twin is a virtual replica of an item that is gaining traction in several sectors
 digital twin is a virtual replica of that entity
@@ -348,6 +636,18 @@ digital twin is a digital replica of a living or non-living physical entity
 Digital twin is a virtual model that represents physical entities in a digital manner
 digital twin is a ‘digital’ ‘twin’ of an existing physical entity
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 24
 digital twin is a connected, virtual replica of an in-service physical asset — in the form of an integrated multidomain system simulation —which mirrors the life and experience of the asset
 digital twin is a complicated software entity and integrates a knowledge-intensive digital model that virtualizes and simulates the physical asset (Lu et al., 2020)
@@ -368,10 +668,34 @@ Digital twin is a connected and synchronised digital replica of physical assets 
 Digital twin is a concept that combines physical entities with virtual spaces
 digital twin is described as a digital version (a conglomerate of data, information, models, methods, tools, and techniques) of a physical asset that represents and simulates its past and current behaviour
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 25
 Digital Twin is a popular trend of the research of Digital Twin in recent year
 Digital twin is a very powerful technology, which has set off a research upsurge in various fields
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 26
 digital twin is a digital entity that reflects physical entity’s behavior rule and keeps updating through the whole lifecycle
 digital twins is a bidirectional digital connection permitting the digital twin to alter the configuration, behaviour, and operation of the physical twin
@@ -393,6 +717,18 @@ digital twin is a precise mapping of physical entities in the information space 
 digital twin is a model, a description of things, while the simulation is based on the model of various activities, there is a big difference between the simulation and digital twin, and should not be confused with each other
 digital twin is a high-precision simulation model that corresponds to the physical entity and should have the ability to interact with the physical entity in both directions, and based on the output data of the physical entity
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 27
 digital twin is a faithful representation of the real system that can be used for decision making
 digital twin is a control system that enables both automated decision-making and decision support for the line operation
@@ -405,9 +741,33 @@ digital twin is a mathematical model, which receives input from the user regardi
 digital twin is a virtual mind that minimises human decision-making with super-informed conclusions based on historical data, smart analytics, real-time environmental conditions, etc
 digital twin is a digital representation of physical objects or a system and decision support is an important use case for digital twins in logistics systems
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 28
 digital twin is a “mirror” or brain organism as postulated earlier, but there are urgent debates who in society is this for (Borges, 1946, pp
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 29
 digital twin is a comprehensive digital representation of an individual product that will play an integral role in a fully digitalized product life cycle [19]
 digital twin is defined as follows: The digital twin is a comprehensive digital representation of an individual product (Haag et al., 2018)
@@ -416,6 +776,18 @@ digital twin is a comprehensive digital representation of an individual product 
 digital twin is a comprehensive digital representation of an individual product
 digital twin is a digital copy of a product that exists in the physical world (Annosi et al., 2021; Defraeye et al., 2021; Rezaei et al., 2019; Kamble et al., 2022)
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 30
 Digital twin is a virtual representation of physical process
 digital twin is a set of pictures in smart manufacturing processes to conduct experiments
@@ -425,6 +797,18 @@ digital twin is a carbon copy of the actual world
 digital twin is a model of a process that allows process development experiments to be run in silico—on a computer—rather than on actual lab”
 digital twins is a design process of virtual-real iteration and loop optimization
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 31
 digital twin is a fit-for-purpose digital representation
 digital twin is a digital representation of an as- set, sufficient to meet the requirements of a set of use cases
@@ -437,6 +821,18 @@ digital twin is a suitable determination of its level of detail
 digital twin is a composite wind rotor blade presented and discussed by Sayer et al
 digital twin is a two-dimensional representation of the sandwich (Fig
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 32
 Digital Twin is a patient model developed before the actual surgery
 Digital twin is a real-time high-fidelity reflection of physical entities
@@ -462,20 +858,68 @@ Digital Twin is characterized by rapid development with the ability to make excl
 Digital Twin is a model, a software system, or whether it even includes physical parts (such as hardware for augmented reality)
 Digital Twin is a database or some other data-centric application (Rauch and Pietrzyk, 2019)
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 33
 digital twin is a useful tool in an outbreak alert and response framework
 digital twin is a useful tool in an outbreak alert and response surveillance system
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 34
 digital twin is a 2D Finite Element-based model of the experimental set-up built in COMSOL Multiphysics ®(Fig
 digital twin is a mechanistic, first-principles-based one, using finite elements
 digital twin is a non-linear 2D finite element model (FEM) implemented using AbaqusÂ®
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 35
 digital twin is a knowledge-driven and knowledge-transferring system using human–machine interfaces
 digital twin is a set of algorithms and statistical models that build on a base of scientific knowledge and experiences
 Digital twin is a model which can take a data set of different patterns from machine data and experiment with data fusion to predict the possibilities
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 36
 defined digital twin as high fidelity model or multidisciplinary simulation, without considering real-time connection with the physical object
 defined digital twin as an integrated multiscale, multiphysics probabilistic simulation of a complex product which uses the best available physical model, sensor updates etc
@@ -485,6 +929,18 @@ defined digital twin as a simulation process that integrates multiple physical q
 defined digital twin as a simulation process that integrates multiphysical parameters, multiscale models, and multi-probabilities to construct a fully mapped virtual model based on the physical models of aircraft (in this specific case) [13]
 defined digital twin as a simulation process that integrates multi-physical parameters, multiscale models, and multi-probabilities
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 37
 digital twin is a vital tool to help engineers understand not only how products are performing, but also how they will perform in the future
 digital twin is a very useful tool since it allows (1) to verify the series of operations to operate reforming, and (2) in the meanwhile, it allows the dynamic response of the system both in start-up and in case of disturbances
@@ -502,10 +958,34 @@ digital twin is a promising technology to enhance manufacturing performance
 Digital Twin is a credible method for product and process development, and for decision making about tools, materials and processes, including plans for design, manufacturing, packaging and marketing
 Digital Twin is a valuable tool in heavy aerospace machinery, automotive, and aerospace applications
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 38
 Digital Twin is a powerful concept that has a promising future in agriculture, with current work covering a range of use-cases including crops, robotics and aquaponics, enabled through technologies including Internet-of-Things, Machine Learning and Cyber-Physical Systems [11]
 Digital twin is a compelling principle with a bright future in agriculture, with current research encompassing a variety of use-cases, including crops, robotics, and aquaponics, enabled by Internet-of-Things, machine learning, and cyber-physical systems technology
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 39
 digital twin is a series of interconnected models that incorporate the outcomes from geological uncertainty, complexity of drilling fluids, and operational parameters such as temperature, pressure, sensitive zones, and equivalent circulating density to support well planning and real-time operations
 digital twin is a virtual simulation of mining and mineral processing operations; a carbon replica in the digital realm where changes can be made to a large number of variables in order to determine how they affect upstream and downstream processes (Sierla et al., 2021)
@@ -513,11 +993,35 @@ digital twin is a digital replica of a mineral processing equipment, process or 
 digital twin is a representation of the whole or a part of the mining value chain being updated from real-time data to facilitate decision-making
 Digital Twin is a non-trivial task, and researchers are trying to generate the Digital Twin blocks of additive manufacturing using a many different approaches, for example, heat and material flow simulation, simulation of solidification, grain structure and texture evolution, modeling of microstructure and properties, and calculation of residual stresses and distortion [7,8]
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 40
 Digital Twin is a new term spawned by the digital revolution [6]
 Digital Twin is a relatively new one used first by the University of Michigan in a presentation to industry in 2002 [2]
 Digital twin is a term initially used by NASA in 2003 and applied to the aerospace industry intending to predict fatigue failure of critical components [14]
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 41
 digital twin is a dynamic representation of a real-life object that mirrors its states and behaviours across its lifecycle so it can be used to monitor, analyze and simulate current and future states of, and interventions on, these objects, using data integration, artificial intelligence and machine learning [19]
 Digital Twin is defined as virtual representations of physical objects across the lifecycle that can be understood, learned, and reasoned with real-time data or a simulation model that acquires data from the field and triggers the operation of physical devices [15,16]
@@ -548,6 +1052,18 @@ Digital Twin is a dynamic representation of a real-life object that mirrors its 
 Digital twins is a technology that uses real-time sensory data to create visual and digital models of physical objects to reflect and adapt to the continuous and dynamical changes in corresponding physical objects [2]
 Digital Twin is defined as the virtual representation of a real object, regardless of whether the physical asset already exists, is just in the planning stage, or is under construction [5]
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 42
 digital twin is a virtual representation of real-world entities and processes, synchronized at a specified frequency and fidelity
 digital twin is a virtual representation of real-world entities and processes, synchronized at a specified frequency and fidelity [11]
@@ -556,10 +1072,34 @@ digital twin is a digital replica of real-world entities and processes, synchron
 digital twin is a virtual representation of real-world entities and processes, synchronized at a specified frequency and fidelity” [3]
 digital twin is a virtual representation of real-world entities and processes, synchronized at a specified frequency and fidelity.” [3] We suggest the following approach to DT boundary definition within the healthcare domain (Fig
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 43
 digital twin is a living model that drives a business benefit
 digital twin is a living model that drives a business outcome [4]
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 44
 digital twin is a virtual representation of the physical microgrid system, including its components and their interactions
 digital twin is a mathematical model of the microgrids that takes into account as accurately as possible all the features of the modeled facility and its elements; this allows the formalization of the formation of tasks to be solved within the framework of its reliability management
@@ -568,6 +1108,18 @@ digital twin is a digital replica of a physical system, such as a microgrid
 digital twin is a digital representation of the physical system that is connected to the grid
 digital twin is a virtual representation of a physical object or system, and it can be used to simulate and optimize energy generation and usage
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 45
 digital twin is a virtual double of a product, a machine, a process or of a complete production facility
 Digital twin is a virtual model of a process, product or service
@@ -581,6 +1133,18 @@ digital twin is a virtual model of a process, product, production asset or servi
 Digital Twin is a virtual or digitized model of a service, product, or a process or any IoT
 digital twin is a virtual model of a physical process, product, or service
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 46
 digital twin is a progressive optimization process of a three-dimensional model
 digital twin is a hydraulic model
@@ -594,11 +1158,35 @@ digital twin is a continuous interactive process
 digital twin is a systematic model with rank going forward step by step
 digital twin is a little higher than that without a digital twin model slightly
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 47
 digital twin is a computer model of a real object, assembly, or system which is updated based on data collected from its physical twin
 digital twin is a digital model of an object that includes all accessible data and updates when new data are available (Ghazanfari, 2022)
 digital twin is a digital model of an object that includes all accessible data with regular updates
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 48
 digital twin is a visual tool that allows viewing from an electronic device, the dimensions of the project, and its status
 digital twin is a virtual version of a real thing that may be tracked, studied, and improved
@@ -624,16 +1212,52 @@ digital twin is a virtual model of a physical system that simulates its behavior
 digital twin is a virtual model of an object, process, or system created with real-world data to gain insights into its real-world counterpart
 digital twin is a virtual replica of the physical object created through advanced data analytics, simulation, and modeling techniques
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 49
 Digital Twin is a way to present machinery, Mika Lohtander et al
 Digital Twin is a way to present machinery, 470 Mika Lohtander et al
 Digital Twin is a way to present machinery, raw material, tools, waste material, process helping aids (such as coolant), and other static and dynamic objects by digital means
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 50
 Digital Twin is a much more sophisticated than that of a simulation model, although this is still a common misconception (Tao and Qi (2019); Lu et al
 digital twin is a virtual environment that is far richer for study (Yao et al., 2021)
 Digital Twin is a powerful enabler of this development (Pylianidis et al., 2021; Verdouw et al., 2021)
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 51
 digital twin is a digital model of the actual object
 digital twin is a real-time digital representation of an item or process that incorporates all the current information and is updated as new data becomes available
@@ -676,11 +1300,35 @@ digital twin is a virtual model created to precisely replicate a physical object
 digital twin is a virtual prototype of a real physical product, product group or process, when the main purpose of such twin is to collect and then use digital information during the entire life cycle of an object
 defined digital twin as a representation of a physical object or system in a virtual environment
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 52
 digital twin is defined as instance-oriented encapsulation
 digital twin is defined as kernel-oriented encapsulation
 digital twin is defined as container-oriented encapsulation
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 53
 digital twin is defined as a highly integrated multi-objective, multi-scale and multi-probability simulation model for aircraft or aircraft system
 Digital twin is a life management and certification paradigm whereby models and simulations consist of as-built vehicle state, as-experienced loads and environments, and other vehicle-specific history to enable high-fidelity modeling of individual aerospace vehicles throughout their service lives
@@ -688,11 +1336,35 @@ Digital Twin is a cradle-to-grave model of an aircraft structure’s ability to 
 Digital Twin is a modular approach where each component, starting from the whole aircraft, is associated with a set of Computer Aided Engineering Models (CAEMs)
 Digital twin is a cradle-to-grave model of an aircraft structure’s ability to meet mission requirements, including sub-models of the electronics, the flight controls, the propulsion system, and other subsystems
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 54
 Digital Twin is a high-precision and actual heat map of a field
 Digital Twin is a revolutionary technology for examining systems or industrial processes like heat control
 digital twin is a remarkable tool capable of discriminating actual thermal events from reflection patterns and to investigate the origin of unexpected light patterns
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 55
 Digital twin is a promising solution for simulating and enabling software defined satellite networks
 Digital twin is a possible replacer for ‘the cobbler’s mind’ in the current trend of products’ complexity and variability
@@ -703,6 +1375,18 @@ digital twin is a modern solution to these ever-growing needs of digitalization
 Digital Twin is a step forward in addressing this
 Digital Twin is a suitable technology to fill the gap between the digital and physical world
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 56
 Digital Twin is a virtual representation of a physical artifact (here, a Supply Chain) that contains a bi-directional data flow between the virtual and digital representation
 digital twin is a virtual representation describing a physical production process at a level of detail that is as comprehensive as is required for its purpose
@@ -725,17 +1409,65 @@ Digital Twin is a virtual equiv- alent of a real system and describes its dynami
 Digital Twin is a virtual representation of a physical entity or process, potentially during its entire life-cycle
 Digital Twin is a representation of characteristics and behavior of a factory according to various levels of detail and the scope it addresses
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 57
 digital twins is a modern and promising area of sharing modeling and big data technologies within the framework of the “Industry 4.0” concept (Erboz, 2017; Gronau, Grum, & Bender, 2016)
 digital twins is a modern and promising area of sharing modeling and big data technologies within the framework of the Industry 4.0 concept
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 58
 digital twin is a key element of intelligent building and smart firefighting [21]
 digital twin is a prominent topic in the AECO sector as it provides a cyber-physical integration of the dynamic building status, including the construction and operation phase [39]
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 59
 digital twin is a monolithic data processor
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 60
 Digital Twin is a semantically linked collection of all digital artefacts, including design and engineering data as well as operational data and behavior descriptions
 digital twin is a comprehensive model which includes geometric information (reconstructed 3D geometric models), semantic information (point clusters of object instances with labels and useful text information)
@@ -747,16 +1479,52 @@ Digital twin is a comprehensively digital representation of entities or activiti
 digital twin is a BIM model without any abstractions, i.e., a copy of reality and this implies that each software that handles the digital twin has to implement the “semantics of everything”
 Digital Twin is a Digital Twin devoted to the mirroring of human physical and mental characteristics, state and behavior
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 61
 Digital Twin is a comprehensive model-based solution to develop a digital twin for the purposes of PdM in industrial systems (Geran Malek et al, 2021)
 Digital Twin is a comprehensive odel-based solution to develop a digital twin for the purposes of PdM in industrial systems (Geran Malek et al, 2021)
 Digital Twin is a omprehensive model-based s lution to develop a digital twin for the purposes of PdM in industrial systems (Geran Malek et al, 2021)
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 62
 Digital Twin is a workflow management system (WfMS) such as the concept proposed by the WfMC and recalled by (Deelman et al
 Digital Twin is a strongly process-oriented project
 Digital Twin is a long-term process, having eventually an open end
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 63
 Digital Twin is a counter part of the physical device, machine or product in a CPS
 Digital twin is a key component of any CPS
@@ -766,6 +1534,18 @@ Digital Twin is a software-based replica of the real CPS and would perfectly mon
 Digital Twin is a different but interrelated concept with CPS or IoT, as shown in Fig
 Digital Twin is a CPSA
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 64
 Digital Twin is a significant additional effort, due to the creation of the underlying models and the relations between them
 digital twins is a complex and specialized project, so are data fusion and analysis
@@ -780,6 +1560,18 @@ digital twin is a data-intensive activity that requires significant computing an
 digital twin is a rather complex task, at present, there are not specific criteria or universal reference architectures to follow [35]
 digital twin is a comprehensive technology involving multiple fields and levels, which itself shows the difficulty of its realization
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 65
 digital twin is a virtual replica of a physical equipment enabling integration between physical and cyber spaces (VanDerHorn & Mahadevan, 2021)
 digital twin is a digital replica of a system which closely and timely reflects the actual state of a physical system (Lin et al., 2021)
@@ -797,9 +1589,33 @@ digital twin is a digital mapping that creates a digital version of a clone in a
 Digital Twin is a digital replica of a physical entity with the two-way dynamic mapping between a physical object and its digital model [23], which has a structure of connected elements and meta-information
 digital twin is a digital simulator or digital replica of a real IEEE 1451 smart sensor” [24]
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 66
 digital twin is a good example of a hyped technology in which inflated vendor promises must be managed by customer firms to obtain business value
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 67
 Digital Twin is a comprehensive physical and functional representation of a component or product, which gathers all necessary information for its processing [11]
 Digital Twin is a representation of an active unique “product” which can be a real device, object, machine, service, intangible asset, or a system consisting of a product and its related services [14]
@@ -812,6 +1628,18 @@ digital twin is a digital representation of an active unique product (real devic
 digital twin is a digital representation of an unique product or product service system that is sufficient to meet the requirements of a set of use cases
 Digital Twin is a virtual representation a machine or a specific device which has a task within the manufacturing process, this digital representation is fed by real data from the process and the machine itself [14]
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 68
 digital twin is a concept that was envisioned well before the technology necessary for its implementation caught up
 digital twin is a much wider concept than has been explored here
@@ -819,6 +1647,18 @@ digital twin is a more powerful simulation concept that has gained increased int
 Digital Twin is a relatively new concept, some practical applications of Digital Twin have already been developed and reported in the literature
 digital twins is a concept that is recently being explored
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 69
 digital twin is a goal behavior, which takes the form of a description of desirable and undesirable observable behavior
 digital twin is a set of realistic models that can simulate its actual behaviour in the deployed environment
@@ -826,11 +1666,35 @@ digital twin is a detailed model of the investigated BESS and should represent t
 digital twin is a set of realistic models that can simulate its actual behavior in the deployed environment
 digital twin is a simulation environment capable of replicating the behaviour of the real system
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 70
 digital twin is a computer program that takes real-world data about a physical object or system as inputs and produces as outputs (predications or simulations of how that physical object or system will be affected by those inputs)
 digital twin is a piece of computer software that generates simulations established on real-world data to predict how a product or process will perform
 Digital Twin is a computer program that takes real-world data about a physical object or system as inputs and produces as outputs predications or simulations of how that physical object or system will be affected by those inputs
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 71
 digital twin is a very significant and promising research aspect in industrial production
 digital twins is a relatively new area of study and practice, primarily focused on the optimization of manufacturing processes [42–44]
@@ -842,40 +1706,160 @@ digital twins is a key area of research development
 digital twin is a hot research topic, and their application in ship propulsion shaft alignment is urgent
 digital twins is a major trend in research and industrial environment in order to increase process understanding, quantify uncertainty, increase reliability and safety, and, finally, manage product quality
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 72
 Digital Twin is a methodology which is not only limited to the mining application
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 73
 digital twin is a prediction tool through which to obtain a reference glucose feeding profile ( F r e f ): (43) F r e f i = q s ( s i ) S f − s i ⋅ x i − 1 W i − 1 e μ s p i △ t i , where x 0 and W 0 are the initial values in each iteration when assessing the F r e f profile, and μ s p is the SGR value from the reference SGR profile
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 74
 Digital Twin is a paradigm that encompasses the complexity of data and information pertaining to a specific heritage asset while ensuring data transparency, interoperability and re-use towards the efficient coordination of multi-disciplinary research on the study, conservation and preservation of works of art and heritage assets
 Digital Twin is a concept primarily used in the conservation of built heritage [9] or in the preservation of artistic heritage [10]
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 75
 digital twin is a set of virtual information constructs that describes the physical product
 digital twin is a set of virtual infor ation constructs that describes the physical product
 digital twin is a set of vir ual formation const ucts tha describes th phys cal product
 digital twin is a set of virtual i formation constructs that describes th physical product
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 76
 digital twin is a promising way in the rapid development of internal short circuit warning algorithms, considering the sharp time cost cutting
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 77
 Digital Twin is a digital object, the number of papers that also name hardware components seems surprisingly high
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 78
 digital twin is a centralized system and lacks trusted data provenance, audit, and traceability (Hasan et al., 2020)
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 79
 digital twin is a twin of Digital Asset the digital twin Continuous Bijective Relation for synchronisation and twinning IoT for data collection and information sharing Data for synchronisation, analysis and input to machine learning Machine learning for analytics and prediction Security to prevent data leaks and information compromises Evaluation metrics/Testing to evaluate the performance of DT Table 4 Comparison of the conceptualisation components in the case study
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 80
 digital twin is a simulation model of the physical assets, buildings, roads, and other entities in cities [15]
 digital twin is defined as a virtual representation of the physical environment that contributes to the performance evaluation of the different cityâ€™s systems (Furst et al., 2021)
 digital twin is a virtual model that replicates a real-world urban area/city, allowing the creator to determine the performance of its different systems (Furst et al., 2021)
 digital twin is a simulation that represents the city or entity at a particular point in time (Hämäläinen, 2021)
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 81
 Digital Twins is a collaboration of various industries, technologies and utilities
 Digital Twin is a dynamic digital representation of industrial infrastructure
@@ -885,20 +1869,68 @@ Digital Twin is a facet of the Internet of Things (IoT) which has emerged in res
 Digital Twin is a Platform as a Service (PaaS) offering that provides a digital twin architecture to create and manage models of physical environments like cities, buildings, and factories
 Digital Twin is a dynamic digital representation of an industrial infrastructure
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 82
 digital twin is a model that resembles a real product and draws its data from sensors on the real product
 digital twin is a model that sembles a real product and draws its data from sensors on the real product
 digital twin is a model that sembl s a real product and draws its data from sensors on the al product
 digital twin is a model of a real product that uses as input data some information taken from this product in order to provide additional information about the behavior of this product in operation
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 83
 Digital twin is a concept that origins from product lifecycle management (PLM)
 Digital Twin is a technological concept, which originated in the context of virtual product development and validation
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 84
 digital twin is a distributed network of computing systems that provides or consumes web services
 Digital Twin is a distributed network of computing systems providing or consuming web services, a WS mapping has been implemented by using the Constrained application protocol (CoAP), widely used in the Internet of Things domain, into an Enterprise Service Bus implemented into a central server
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 85
 digital twin is a virtual representation of an object or system that spans its lifecycle, is updated from real- time data, and uses simulation, ML and reasoning to help decision-making, (IBM (2020))
 digital twin is a virtual representation of an object or system that spans its lifecycle, is updated from real-time data, and uses simulation, machine learning, and reasoning to help decision-making” (IBM, 2022)
@@ -909,9 +1941,33 @@ digital twin is a virtual representation of the physical systems that spans its 
 digital twin is a virtual version of an object or system that spans its lifespan, is updated from real-time data, and aids decision-making through simulation, ML, and reasoning
 digital twin is a virtual representation of a physical object or system across its lifecycle, using real-time data to enable understanding, learning and reasoning
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 86
 digital twin is a digital mapping of the real world, which means that it is highly dependent on computing power
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 87
 digital twin is a computational model of the physical system (called the physical twin)
 digital twin is a capability to model complex engineering (or other) systems
@@ -941,9 +1997,33 @@ digital twin is a computerized model of a physical device or system that represe
 digital twin is a dynamic and digital representation of a physical system
 digital twin is a model of a system developed based on mathematical relationships using a software code that allows for simulation of the physical system it was developed to emulate
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 88
 Digital Twin is a new concept but an old method in the study of rolling bearings
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 89
 digital twin is a hierarchical cyber-physical system and an interactive networked architecture, established by combining the model, data, and artificial intelligence technology (shown in Fig
 digital twin is a highly integrated system with multiple capabilities (supervisory, control, and predictive) and most AM technologies (especially metallic AMs) are still at their early development stages, currently there are only a few digital twins have been developed
@@ -958,26 +2038,86 @@ digital twin is a multidisciplinary, multi-physics, multi- scale dynamic model t
 digital twin is a multidisciplinary, multi-physics, multi- scale dy amic mode that takes full dvantage of the tegration of physical models, operational data, nd oth r formation
 digital twin is a multidisciplinary, multi-physics, multi- scale dynamic model that takes full advantage of the int gratio of physica models, ope ation l data, and other formation
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 90
 digital twin is a vital part of the test system shown in Fig
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 91
 digital twin is a virtual representation of a particular product, such as fresh horticultural produce
 digital twin is a virtual representation of the actual fruit (Verboven et al., 2020), (Defraeye et al., 2019)
 digital twin is a virtual representation of a certain product, such as fresh horticultural produce
 digital twin is a promising tool to minimize fruit waste by monitoring and predicting the status of fresh produce throughout its life
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 92
 digital twins is a necessity or an attractive feature
 digital twins is a neces ity or an at ractive feature
 digital twins is a necessity or n attractive feature
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 93
 Digital Twin is a well-established concept defined differently by numerous authors depending on the use case and domain
 Digital Twin is a frequently used term, which is applied diversely along the different disciplines
 Digital Twin is a well-established concept which is de- fined differently by each author depending on the use case and the discipline
 Digital Twin is a broadly investigated technology applied in a variety of areas
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 94
 Digital Twin is a digital clone of an object or person in the real world, commonly referred to as Real Twin (RT)
 Digital twin is a cyber-physical control device that uses object conceptualizations
@@ -992,6 +2132,18 @@ Digital twin is a product digital counterpart of a physical product
 Digital twin is a digital representation of a real-world object with focus on the object itself
 Digital Twin is a digital equivalent to a real-life object of which it mirrors its behaviour and states over its lifetime in a virtual space
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 95
 digital twin is defined as a comprehensive set of information constructs that fully describes a physical product, encompassing both micro atomic level to the macro geometrical level [40]
 digital twin is defined as a set of virtual information that fully describes a potential or actual physical output from the micro-atomic to the macro-geometric level
@@ -1000,20 +2152,68 @@ digital twin is a set of virtual information constructs that fully describes a p
 digital twin is a set of virtual information constructs that fully describes a potential or actual physical manufactured product from the micro (atomic level) to the macro (geometrical level) [10]
 digital twins is defined as a set of information constructs that provide a comprehensive and detailed description of a physical product, embracing both micro-atomic to the macro-geometrical levels [4]
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 96
 Digital twin is a system (figure 1) that comprises a real environment with real objects and systems (e.g
 Digital twin is a system (figure 1) that comprises a real environment with real objects and systems (e.g
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 97
 Digital Twin is a technology which excels in upkeeping maintenance and health management plans
 Digital Twin is a technology which excels n upkeeping maintenance and health ma agement plans
 Digital Twin is a revolutionary idea for maintenance as it means they can move from reacting to events to predicting them
 digital twin is a preventive maintenance strategy, which can ensure the timely and accurate management of potential risks, prevent accidents in advance, establish the relationship between equipment and spare parts, optimize spare parts reserves, and greatly reduce capital occupation
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 98
 digital twin is a key enabler for production re-planning in case of failures
 digital twin is a core enabler of autonomy and therefore key for achieving a new level of flexibility in automation systems
  ---------------- 
+
+
+
+
+
+
+
+
+
+
+
+
 CLUSTER # 99
 Digital twin is a faithful mapping of the physical product and can make the communication between clients and designers more transparent and faster by using the real-time transmission data
 Digital Twin is a faithful mapping of the physical product and can make communication between customers and designers more transparent and faster by using real-time transmission data
