@@ -1,0 +1,63 @@
+Jones D. Snider C. Nassehi A. Yon J. Hicks B. Characterising the digital twin: A systematic literature review CIRP J. Manuf. Sci. Technol. 29 2020 
+Semeraro C. Lezoche M. Panetto H. Dassisti M. Digital twin paradigm: A systematic literature review Comput. Ind. 130 2021 103469 
+He B. Bai K.-J. Digital twin-based sustainable intelligent manufacturing: A review Adv. Manuf. 9 1 2021 1 21
+D. Yang H.R. Karimi O. Kaynak S. Yin Developments of digital twin technologies in industrial, smart city and healthcare sectors: a survey Complex Engineering Systems 1 1 2021 3
+Wu, Y., Zhang, K., & Zhang, Y. (2021). Digital twin networks: A survey. IEEE Internet of Things Journal, 8(18), 13789-13804.
+Jia, Y., Khan, S., Niaz, F., & Raza, M. U. (2021, October). Autonomous Driving Test Method Based on Digital Twin: A Survey. In 2021 International Conference on Computing, Electronic and Electrical Engineering (ICE Cube) 
+He, B., & Bai, K. J. (2021). Digital twin-based sustainable, intelligent manufacturing: A review. Advances in Manufacturing, 9(1), 1-21. [69] F. Tang X. Chen T.K. Rodrigues M. Zhao N. Kato Survey 
+D. Botin-Sanabria A. Mihaita R. Peimbert-Garcia R. Ramirez-Mendoza J. Lozoya-Santos Digital twin technology challenges and applications: a comprehensive review Remote Sens. 14 6 2022 1335 D. Botin-Sanabria, A. Mihaita, R. Peimbert-Garcia, R. Ramirez-Mendoza, J. Lozoya-Santos, Digital Twin Technology Challenges and Applications: A Comprehensive Review. Remote Sensing, 2022, 14(6):1335. 
+K. Bartsch A. Pettke A. Hubert J. Lakamper F. Lange On the digital twin application and the role of artificial intelligence in additive manufacturing: a systematic review Journal of Physics-Materials 4 2021 10.1088/2515-7639/abf3cf
+He and Bai, 2020 B. He K.-J. Bai Digital twin-based sustainable intelligent manufacturing: a review Adv. Manuf. 9 1 2020 1 21 10.1007/s40436-020-00302-5
+Erkoyuncu JA., Birkin G., Carvalho do lago RL., Williamson A., Williams H., Roy R. Conceptualisation of Digital Twins in the Through-life Engineering Services Environment.
+Enders MR, Ho\u00dfbach N. Dimensions of Digital Twin Applications - A Literature Review. Twenty-Fifth Am Conf Inf Syst Cancun, 2019 2019:1\u201310
+D. Botin-Sanabria, A. Mihaita, R. Peimbert-Garcia, R. Ramirez-Mendoza, J. Lozoya-Santos, Digital Twin Technology Challenges and Applications: A Comprehensive Review. Remote Sensing, 2022, 14(6):1335.Miranda, R., & Leal, F. (2022). Decision support in productive processes through DES and ABS in the Digital Twin era: a systematic literature review. International Journal of Production Research, 60(8), 2662\u20132681. https://doi.org/10.1080/00207
+He, B., & Bai, K.J. (2020). Digital twin-based sustainable intelligent manufacturing: a review.
+Garg, A., & Panigrahi, B.K. (2021). Multi-dimensional digital twin of energy storage system for electric vehicles: A brief review.
+Opoku, D.G.J., Perera, S., Osei-Kyei, R., & Rashidi, M. (2021). Digital twin application in the construction industry: A literature review.
+Errandonea, I., Beltrán, S., & Arrizabalaga, S. (2020). Digital twin for maintenance: A literature review.
+He, B., Liu, L., & Zhang, D. (2021). Digital twin-driven remaining useful life prediction for gear performance degradation: A review.
+Kosacka-Olejnik, M., Kostrzewski, M., Marczewska, M., Mrówczyńska, M., & Pawlewski, P. (2021). How digital twin concept supports internal transport systems?—Literature review.
+Melesse, T.Y., Pasquale, V.D., & Riemma, S. (2020). Digital Twin models in industrial operations: a systematic literature review.
+Singh, M., Srivastava, R., Fuenmayor, E., Kuts, V., Qiao, Y., Murray, N., & Devine, D. (2022). Applications of digital twin across industries: A review.
+Rahman, S., Hasan, M.M., Ali, M.F., Tasneem, Z., Islam, M.M., & Islam, M.R. (2022). Towards electric digital twin grid: Technology and framework review.
+Murphy, K.P. (Year). Dynamic Bayesian Networks: Representation, Inference and Learning.
+Xiong M. Wang H. Digital twin applications in aviation industry: A review Int. J. Adv. Manuf. Technol. 121 9\u201310 2022 1 
+Xia J, Zou G. Operation and maintenance optimization of offshore wind farms based on digital twin: A review
+Chen, L., Ali, A., Nugent, C., Ian, C., Li, R., Gao, D., Wang, H., & Wang, Y. (2022). Human digital twin: A survey. Retrieved from URL: https://arxiv.org/abs/2212.05937, doi:10.48550/ARXIV.2212.05937.
+Wu, J., Yang, Y., Cheng, X., Zuo, H., & Cheng, Z. (2020). The Development of Digital Twin Technology Review. In Chinese Automation Congress (CAC) (pp. 4901-4906). https://doi.org/10.1109/cac51589.2020.
+Agnusdei, G.P., Elia, V., & Gnoni, M. Gr. (2021a). Is Digital Twin Technology Supporting Safety Management? A Bibliometric and Systematic Review. Applied Sciences, 11, 2767. https://doi.org/10.3390/.
+García-Diéguez, M., Lozoya-Santos, J.J., Vargas-Martínez, A., Mendoza, R., & Morales-Menéndez, R. (2019). Digital twin applications: A review. In Memorias del Congreso Nacional de Control Automático (pp. 606–611). Puebla, Mexico: ACM.
+He, B., & Bai, K. (2020). Digital Twin-based sustainable intelligent manufacturing: A review. Advances in Manufacturing.
+Löcklin, A., Müller, M., Jung, T., Jazdi, N., White, D., & Weyrich, M. (2020). Digital Twin for Verification and Validation of Industrial Automation Systems - A Survey. IEEE Symposium on Emerging Technologies and Factory Automation, ETFA, 2020.
+Nguyen, T., Duong, Q.H., Nguyen, T.V., Zhu, Y., & Zhou, L. (2022). Knowledge mapping of digital twin and physical internet in Supply Chain Management: A systematic literature review. International Journal of Production Economics, 244, 108381.
+Errandonea, I., Beltrán, S., & Arrizabalaga, S. (2020). Digital twin for maintenance: A literature review. Computers in Industry, 123, 103316.
+Coupry, C., Noblecourt, S., Richard, P., Baudry, D., & Bigaud, D. (2021). BIM-Based Digital Twin and XR Devices to Improve Maintenance Procedures in Smart Buildings: A Literature Review. Applied Sciences, 11, 6810.
+Ghenai, C., Husein, L.A., Al Nahlawi, M., Hamid, A.K., & Bettayeb, M. (2022). Recent trends of digital twin technologies in the energy sector: A comprehensive review. Sustainable Energy Technologies and Assessments, 54, 102837. doi:10.1016/J.SETA.2022.102837.
+Mathupriya, S., Banu, S.S., Sridhar, S., & Arthi, B. (2020). Digital twin technology on IoT, industries & other smart environments: a survey. Mater. Today: Proc, 2020.
+Pokhrel, A., Katta, V., & Colomo-Palacios, R. (2020). Digital Twin for Cybersecurity Incident Prediction: A Multivocal Literature Review. In Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops.
+Adamenko, D., Kunnen, S., Pluhnau, R., Loibl, A., & Nagarajah, A. (2020). Review and comparison of the methods of designing the Digital Twin. Procedia CIRP, 91, 27–32.
+Mauro, F., & Kana, A.A. (2023). Digital twin for ship life-cycle: A critical systematic review. Ocean Engineering, 269, 113479.
+Hosamo, H.H., & Hosamo, M.H. (2022). Digital twin technology for bridge maintenance using 3D laser scanning: A review. Advances in Civil Engineering, 2022.
+Su, S., Zhong, R.Y., & Jiang, Y. (2022). Digital twin and its applications in the construction industry: A state-of-art systematic review. Digital Twin, 2, 15.
+Rios, A.J., Plevris, V., & Nogal, M. (2023). Bridge management through digital twin-based anomaly detection systems: A systematic review. Frontiers in Built Environment, 9.
+Osadcha, I., Jurelionis, A., & Fokaides, P. (2023). Geometric parameter updating in digital twin of built assets: A systematic literature review. Journal of Building Engineering, 73, 106704.
+Bartsch, K., Pettke, A., Hübert, A., Lakämper, J., & Lange, F. (2021). On the Digital Twin Application and the Role of Artificial Intelligence in Additive Manufacturing: A Systematic Review. Journal of Physical Materials.
+D. G. J., Perera, S., Osei-Kyei, R., Rashidi, M., Famakinwa, T. & Bamdad, K. 2022. Drivers for Digital Twin Adoption in the Construction Industry: A Systematic Literature Review. Buildings, 12, 113 DOI: 10.3390/buildings12020113
+Mohamed, R., Zamani, N.W., Osman, M.H., & Yaakob, R. (2022). Applications of data analytics and machine learning for digital twin-based precision biodiversity: a review. In International Conference on Advanced Creative Networks and Intelligent Systems (ICACNIS) 2022 (pp. 1-7).
+Kosacka-Olejnik, M., Kostrzewski, M., Marczewska, M., & Mrówczyńska, B. (2021). How Digital Twin Concept Supports Internal Transport Systems?—Literature Review. Energies, 14(16), 4919.
+Soori, M., Arezoo, B., & Dastres, R. (2023). Digital Twin for Smart Manufacturing, A Review. Sustain. Manuf. Serv. Econ, 2, 100017.
+Shaharuddin, S., Abdul Maulud, K.N., Syed Abdul Rahman, S.A.F., & Che Ani, A.I. (2022). Digital twin for indoor disaster in smart city: A systematic review. International Archives of the Photogrammetry, Remote Sensing & Spatial Information Sciences, XLVI-4/W3, 315-322.
+Carvalho, R., & da Silva, A.R. (2021). Sustainability Requirements of Digital Twin-Based Systems: A Meta Systematic Literature Review. Applied Sciences, 11(11), 5519.
+Xie, R., Chen, M., Liu, W., Jian, H., & Shi, Y. (2021). Digital Twin Technologies for Turbomachinery in a Life Cycle Perspective: A Review. Sustainability, 13(5), 2495.
+Garg, A., & Panigrahi, B. K. (Year). Multi-dimensional digital twin of energy storage system for electric vehicles: a brief review. Journal of Energy Storage
+Bhandal, R., Meriton, R., Kavanagh, R. E., & Brown, A. (Year). The application of digital twin technology in operations and supply chain management: a bibliometric review. Supply Chain Management,
+Coupry, C., Noblecourt, S., Richard, P., Baudry, D., & Bigaud, D. (Year). BIM-Based digital twin and XR devices to improve maintenance procedures in smart buildings: A literature review. Applied Sciences, Volume(Issue), Page Range. DOI or URL if available.
+Melesse, T. Y., Di Pasquale, V., & Riemma, S. (Year). Digital twin models in industrial operations: a systematic literature review. Procedia Manufacturing, Volume(Issue), Page Range. DOI or URL if available.
+Wang, K., Wang, Y., Li, Y., et al. (Year). A review of the technology standards for enabling digital twin. Journal Title, Volume(Issue), Page Range. DOI or URL if available.
+He, B., & Bai, K. (Year). Digital twin-driven sustainable intelligent manufacturing: a review. Journal Title, Volume(Issue), Page Range. DOI or URL if available.
+Ciano, M. P., Pozzi, R., Rossi, T., & Strozzi, F. (2021). Digital twin-enabled smart industrial systems: a bibliometric review. Journal Title, Volume(Issue), Page Range. DOI or URL if available.
+Mu, H., He, F., Yuan, L., Commins, P., Wang, H., & Pan, Z. (2023). Toward a smart wire arc additive manufacturing system: a review on current developments and a framework of the digital twin. Journal Title, Volume(Issue), Page Range. DOI or URL if available.
+Queiroz, R. D. C., Miranda, F., Leal, [add initials if available] (Year). Decision support in productive processes through DES and ABS in the Digital Twin era: a systematic literature review. Journal Title, Volume(Issue), Page Range. DOI or URL if available.
+Kritzinger, W., Karner, M., Traar, G., Henjes, J., & Sihn, W. (Year). Digital Twin in manufacturing: A categorical literature review and classification. Journal Title, Volume(Issue), Page Range. DOI or URL if available.
+Kuehner, K. J., Scheer, R., & Strassburger, S. (2021). Digital Twin: Finding Common Ground – A Meta-Review. Procedia CIRP, Volume(Issue), Page Range. DOI or URL if available.
+Zhang, A., Yang, J., & Wang, F. (Year). Application and enabling technologies of digital twin in operation and maintenance stage of the AEC industry: A literature review. Journal of Building Engineering, Volume(Issue), Page Range. DOI or URL if available.

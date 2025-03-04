@@ -1,0 +1,847 @@
+4 Sun T, He X, Song X, et al. (2022)
+Ruohomaki et al. (2018)
+tian, s., yang, w., le grange, j.m., wang, p., huang, w., & ye, z. (2019)
+al-assam, h., hassan, w., & zeadally, s. (2019)
+Wang et al., (2017)
+Tao et al. (2019)
+Grieves, M. Vickers, J. Digital Twin: Mitigating Unpredictable, Undesirable Emergent Behavior in Complex Systems Transdisciplinary Perspectives on Complex Systems-New Findings and Approaches 2017 Springer ISBN 978-3-319-38756-7
+Khajavi et al. (2019)
+Grieves, M., Vickers, J., 2017
+grieves, m., vickers, j. (2017)
+Alteia 2022
+a. fink (2019)
+Grieves M. Vickers J. Digital Twin: mitigating unpredictable, undesirable emergent behavior in complex systems. Kahlen J. Flumerfelt S. Alves A. Transdisciplinary Perspectives on Complex Systems. 2017 Springer
+Lohtander et al. (2018)
+Lohtander et al. (2018)
+ramtilak et al. (2005)
+IBM (2020)
+Grieves & Vickers (2016)
+error
+Singh et al. (2020)
+deng, t., zhang, k., & shen, z. j. m. (2021). a systematic review of a digital twin city: a new pattern of urban governance toward smart cities. journal of management science and engineering, 6(2), 125-134.
+T. Erol, A.F. Mendi, & D. Doğan (2020)
+j.li, g.h. lin, d. fang, y. tai, j. huang (2020)
+erol2020
+Boulos, M.N.K. & Zhang, P. (2021)
+erol, t., mendi, a. f., & dogan, d. (2020, october)
+Delp et al., 2007
+li, cui, jiang, & yu, 2023
+error
+Grieves, M. (2014)
+Ivanov & Dolgui, 2021
+VanDerHorn & Mahadevan (2021)
+[41] E. Negri, L. Fumagalli, M. Macchi, A Review of the Roles of Digital Twin in CPS-based Production Systems Proceedings of MANUF 11 (2017) 939-948.
+jian-jun xu, xin-yu wang, xiao-dan yang, shu-yang chen. latent structure decomposition and visualization of coupled cores in hypernetworks. app. net. sci. 3(2) (2018) 1-19.
+[w kritzinger et al. 2018]
+a. rasheed, o. san, t. kvamsdal (2020)
+[139] Ansys Twin builder
+[135] m. grieves, virtual twin: manufacturing excellence through virtual factory replication, 2014.
+(Grieve 2014)
+haag2018
+tuegel ej
+Karve et al. (2019)
+Tao et al. (2019)
+25 [125]
+[30] 2017 Digital Twin: Mitigating unpredictable, undesirable emergent behavior in complex systems.
+Holler, M., Uebernickel, F., & Brenner, W. (2019). Digital twin concepts in manufacturing industries- a literature review and avenues for further research. 18th International Conference on Industrial Engineering.
+Tao et al. (2017)
+Vijayakumar, K., Dhanasekaran, C., Pugazhenthi, R., & Sivaganesan, S. (2019). Digital twin for factory system simulation. International Journal of Recent Technology and Engineering, 8, 63-68.
+Tao et al., 2018
+Grieves and Vickers (2017)
+Zhao, H. (2019)
+Grieves M. Virtual Twin: Mitigating Unpredictable, Undesirable Emergent Behavior in Complex Systems Transdisciplinary Perspectives on Complex Systems 2017 Springer Cham
+Grieves M. Virtualy Perfect: Driving innovative and lean products through product lifecycle management 2011 Space Coast Press
+lu et al., 2020
+lu et al., 2020
+lu et al., 2020
+Lu et al., 2020
+error
+[41] m.m. armstrong, cheat sheet: what is digital twin?, (2020). https://www.ibm.com/blogs/internet-of-things/iot-cheat-sheet-digital-twin/ (accessed october 7, 2021).
+Rosen et al. (2015)
+Grieves, 2014
+Wang et al., 2019
+Bollag, G., et al. (2010). Clinical efficacy of a RAF inhibitor needs broad target blockade in BRAF-mutant melanoma. Nature, 467(7315), 596-599.
+(K. H. 2013)
+error
+Kiefer J. Mechatronikorientierte Planung automatisierter Fertigungszellen im Bereich Karosserierohbau. Dissertation, Saarbrücken, 2007.
+[41] g.b. ozturk digital twin research in the aeco-fm industry j. build. eng. 40 2021 102730 10.1016/j.jobe.2021.102730
+Stark & Damerau (2019)
+[11] m.j. smith, getting value from artificial intelligence in agriculture, over the next 10+ years, 2018. 10.31220/osf.io/q79mx.
+Gould2018
+[24] e. glaessgen d. stargel the digital twin paradigm for future nasa and u.s. air force vehicles 53rd aiaa/asme/asce/ahs/asc structures, structural dynamics and materials conference 20th aiaa/asme/ahs adaptive structures conference 14th aiaa 2012 american institute of aeronautics; astronautics honolulu, hawaii 1 14 10.2514/6.2012-1818 e. glaessgen, d. stargel, the digital twin paradigm for future nasa and u.s. air force vehicles, in: 53rd aiaa/asme/asce/ahs/asc structures, structural dynamics and materials conference<br>20th aiaa/asme/ahs adaptive structures conference<br>14th aiaa, american institute of aeronautics; astronautics, honolulu, hawaii, 2012: pp. 1–14. doi:10.2514/6.2012-1818.
+Grieves, 2017
+Grieves, M. (2017)
+Tao, F., Zhang, H., Liu, A.Y.C., & Nee, A. (2019)
+Grieves, M. (2017)
+(bi et al., 2014)
+gewin, 2016
+alam and el saddik, 2017
+schleich et al., 2017
+cimino et al., 2019
+alam and el saddik, 2017
+Kaur et al., 2020
+Ivanov et al., 2019
+Ivanov et al., 2019
+Ivanov et al., 2019
+Qi et al. (2019)
+Tao F, Zhang M, Liu Y. (2018)
+Rubeo, M.A., Schmitz, T.L. (2016)
+Rasheed, Adil, Omer San, and Trond Kvamsdal (2020)
+QiQi2019
+rasheed et al., 2020
+lu et al. (2021)
+ali, 2010
+Monostori et al. (2016)
+Jain, S., Shao, G., & Shin, S. J. (2017)
+error
+[30] lu y, liu c, kevin i, huang h, xu x. digital twin-driven smart manufacturing: connotation, reference model, applications and research issues robot comput integrated manuf 61 2020 101837
+Oesterreich et al. (2020)
+11 - p. bosch-sijtsema, c. claeson-jonsson, m. johansson, m. roupe, the hype factor of digital technologies in aec, constr. innov.. 21, 4 (2021) 899–916. https://doi.org/10.1108/ci-01-2020-0002
+[12] Vanderhorn, E., & Mahadevan, S. (2021)
+Lin et al., 2021
+error
+El Saddik et al. (2021)
+El Saddik, Laamarti and Alja'Afreh, 2021
+Barni et al., 2019
+Saddik, Laamarti, and Alja'Afreh, 2021
+Alho and Mattila (2015)
+ieee1991
+error
+dohu2105
+attaran and celik, 2023
+18brockhoff et al. (2021)
+Grieves & Vickers (2017)
+Lutters, E., & Van Houten, A. (2014)
+Tao F, Zhang H, Liu A, Nee AYC (2019)
+Grieves (2017)
+Boschert and Rosen (2016)
+Ivanov, 2023
+Ivanov et al., 2019
+[12] g. coorey g.a. figtree d.f. fletcher j. redfern the health digital twin: advancing precision cardiovascular medicine nat. rev. cardiol. 18 12 oct. 2021 803 804 10.1038/s41569-021-00630-4
+Coorey et al., 2021
+rasheed2020
+Singh et al., 2018
+casas et al., 2020
+Grieves & Vickers 2016
+Aivaliotis et al., 2019
+Grieves (2014)
+[4] Huang, W., Causse, P., Brailovski, V., Hu, H., & Trochu, F. (2019). Reconstruction of mesostructural material twin models of engineering textiles based on micro-CT aided geometric modeling. Composites Part A: Applied Science and Manufacturing, 124.
+Rosen et al., 2019
+Krasnov Fedor and Khasanov Mars (2019)
+Verboven et al., 2020
+Verdouw et al. (2021)
+Dietz and Pernul, 2020
+(AuthorDate) NASA
+(Raj, 2020)
+Chellammal Surianarayanan
+Raj (2018)
+Raj (10)
+(pethuru raj, 2021)
+Grieves (2014)
+wikipedia (2022)
+digital twin consortium (2022)
+[N] Bauer D., Stock D., Bauernhansl T. (2017)
+kapteyn et al.2021
+Grieves, J., & Vickers, J. (2017)
+Grieves, M. and Vickers, J. (2017)
+Qi and Tao (2018)
+Tao and Zhang (2017)
+Stark and Damerau (2019)
+researchandmarkets (2022)
+Stark & Damerau (2019)
+(Bodór, 2018)
+Rieger, B.; Schlueter, S.; Erhard, S.V.; Schmalz, J.; Reinhard, G.; Jossen, A. (2016)
+Wright and Davidson (2020)
+wagg d.j. worden k. barthorpe r.j. gardner p. (2020)
+brenner and hummel, 2017
+zhou et al., 2019
+kaffash et al., 2021
+[r. ganguli s. adhikari the digital twin of discrete dynamic systems: initial approaches and future challenges appl. math. model. 77 2 2020 1110 1128]
+error
+Wuest (2016)
+Tao Fei (2018)
+Tao Fei (2018)
+Cohen et al., 2019a
+Cohen et al., 2019a
+Bilberg and Malik (2019)
+Cohen et al., 2019a
+Kritzinger et al. (2018)
+Grieves and Vickers (2017)
+Negri et al. (2017)
+error
+Batty2018
+(Zhong et al., 2017)
+[24] r. söderberg k. wärmefjord j.s. carlson l. lindkvist toward a digital twin for real-time geometry assurance in individualized production cirp ann. manuf. technol. 66 1 2017 137 140
+Negri et al. (2017)
+Reiche et al. (2021)
+Rasheed et al., 2020
+Aivaliotis et al., 2019
+Aivaliotis et al., 2019
+Geran Malek et al, 2021
+(Geran Malek et al., 2021)
+Aivaliotis et al., 2019
+Geran Malek et al., 2021
+Aivaliotis et al., 2019
+Aivaliotis et al., 2019
+Barari et al., 2021
+Grieves (2014)
+Kritzinger, W., Karner, M., Traar, G., Henjes, J., & Sihn, W. (2018)
+seker2016
+Parrott et al. (2017)
+DHL Trend Research, Digital Twins in Logistics-A DHL Perspective on the Impact of Digital Twin on the Logistics Industry, 2019
+Rasheed et al. (2020)
+huang n.e. shen z. long s.r. wu m.c. shih h.h. zheng q. yen n.-c. tung c.c. liu h.h. the empirical mode decomposition and the hilbert spectrum for nonlinear and non-stationary time series analysis proceedings of the royal society of london a 454 1998 the royal society 903 995
+error
+Glaessgen, E. H. and Stargel, D. S. (2012)
+Zäh, M.F., Wünsch, G., & Hensel, T. (2006)
+Löcklin A et al. (2020)
+Shao et al. (2019)
+[4] x.m. sun j.s. bao j. li y.m. zhang s.m. liu b. zhou a digital twin-driven approach for the assembly-commissioning of high precision products robot. comput. integrated manuf. 61 2020 101839 x.m. sun, j.s. bao, j. li, y.m. zhang, s.m. liu, b. zhou, a digital twin-driven approach for the assembly-commissioning of high precision products, robotics and computer-integrated manufacturing 61: (2020) 101839.
+[9] m. grieves j. vickers
+17aldjardineLiBanjevic2006
+Glatt, M., Sinnwell, C., Yi, L., Donohoe, S., Ravani, B., & Aurich, J.C. (2021)
+Kamel Boulos and Zhang, 2021
+mourtzis et al. (2018)
+Schleich et al. (2017)
+Chen et al., 2015
+Katz A, Thompson A (1986)
+5G-ACIA 2021
+Crowe1996
+Semeraro et al. (2021)
+Scott et al., 2022
+error
+Jones et al. 2020
+[6] Grieves M.
+cimino et al., 2019
+Ghazanfari (2022)
+Vanderhorn, E., & Mahadevan, S. (2021)
+[Glaessgen and Stargel, 2018]
+Worden et al. [13]
+Hendricks (2020)
+Liu et al. 2021
+Schleich et al. (2017)
+(Bisessar et al., 2018)
+Thuamjicol2011
+tuegel e.j. et al. (2011)
+Grieves & Vickers (2017)
+IBM (2022)
+Agrawal et al. (1993)
+Bakhtadze et al., 2019
+Grieves 2014
+Tao et al., 2018
+error
+Li et al. (2017)
+(uhlemann et al. 2017)
+Stark et al. (2017)
+Rosen, Von Wichert, Lo & Bettenhausen, 2015
+[20] y. lu c. liu i. kevin k. wang h. huang x. xu digital twin-driven smart manufacturing: connotation, reference model, applications and research issues robot comput-integr manuf 61 2020 101837
+Horváth and Erdős (2017)
+Modoni et al. (2019)
+Kuts et al. (2019)
+Fuller et al. (2020)
+Aguwa et al., 2010
+Ashtari Talkhestani et al., 2019
+malakuti et al. (2019)
+(2020)
+[4] Industrial Internet Consortium
+Bolton, Enzer, Schooling (2018)
+alsharef, banerjee, uddin, albert, jaselskis, 2021
+Tao et al., 2018
+Fuller et al. (2020)
+Kritzinger et al., 2018
+Chandrasekhar et al. (2015)
+Rasheed et al., 2020
+Duan et al. (2021)
+Zheng et al., 2021
+error
+Stark, R. & Damerau, T. (2019)
+duan et al., 2021
+Glaessgen EH, Stargel DS (2012)
+wang2018
+Grieves and Vickers (2017)
+Vanderhorn & Mahadevan (2021)
+camara dit pinto (2022)
+Pacaux-Lemoine, M.P., & Flemisch, F. (2021)
+feng et al., 2023
+Arnason2022
+Aheleroff, S., Zhong, R. Y., & Xu, X. (2020)
+Deelman et al. 2015
+Tao et al., 2019
+Uhlemann et al. (2017)
+IFACOL 21509 S2405-8963(21)01622-0 10.1016/j.ifacol.2021.10.220
+Cetengfei Zhang, Quan Zhou, Yanfei Li, Lun Hua, Hongming Xu (2021)
+IFACOL 21509 S2405-8963(21)01622-0 10.1016/j.ifacol.2021.10.220
+(Freitas et al., 2020)
+dembski et al. (2020a)
+Hermann et al. (2016)
+error
+error
+error
+farhanhussainx2023x1
+shenw2010
+error
+error
+error
+error
+error
+Tao, F., Qi, Q., Wang, L., Nee, A. (2019)
+[25] Liau, Y., Lee, H., Ryu, K. (2017). Digital twin concept for smart injection molding, in: IOP Conference Series: Materials Science and Engineering, Volume 324, 2017 The 5th International Conference on Mechanical Engineering, Materials Science and Civil Engineering 15–16 December 2017, Kuala Lumpur, Malaysia.
+Koulouris et al., 2021
+Taylor, M.
+cheng f.-t., shen e., deng j.-y., nguyen k. development of a distributed object-oriented system framework for the computer-integrated manufacturing execution system. proc. 1998 ieee int. conf. robot. autom. cat no98ch36146, vol. 3, 1998, p. 2116–2121 vol.3. https://doi.org/10.1109/robot.1998.680633.
+(Finkbeiner et al., 2010)
+Tao et al. (2018)
+[21] brundage m.p. sexton t. hodkiewicz m. dima a. lukens s. technical language processing: unlocking maintenance knowledge manuf lett 27 2021 42 46
+Fuller, A., Fan, Z., Day, C., & Barlow, C. (2020)
+(Kharpenko et al., 2020)
+fuller et al., 2020
+[6] wissenschaftliche gesellschaft für produktentwicklung v. wigep e. wigep-positionspapier - digitaler zwilling 2020
+ m. shafto et al. (2012)
+Shafto et al., 2012
+m. shafto m. conroy r. doyle e. glaessgen c. kemp j. lemoigne (2012)
+Phillip, R. (2018)
+error
+error
+grieves, 2014
+glaessgen and stargel (2012)
+Marr, 2017
+glaessgen and stargel, 2012
+armendia et al. (2019)
+Gronau et al., 2016
+Lee & Seshia (2011)
+Evangeline and Anandhakumar (2020)
+el saddik, 2018
+el Sadik, 2018
+euhus twin-control approach: a digital twin approach to improve machine tools lifecycle (2019)
+Alberti and Singh (2013)
+Rosen, R., von Wichert, G., Lo, G., & Bettenhausen, K.D. (2015)
+error
+error
+error
+error
+error
+error
+error
+error
+[31] Boschert, S., & Rosen, R. (2016). Digital twin – the simulation aspect. Mechatronic Futures, 59-74. doi: doi.org/10.1007/978-3-319-32156-1_5.
+[32] Liu M, Fang S, Dong H, Xu C. Review of digital twin about concepts, technologies, and industrial applications. J Manuf Syst. 2021;58:346-361.
+Dabbaghjamanesh, Kavousi-fard, and Mehraneen (2018)
+Lipsitz et al. (2016)
+error
+error
+error
+Bottani et al., 2017
+Grieves, M.
+Depew, C. (2020)
+depew, 2020
+Gohari et al., 2019
+vock r., ochmann s., klein r., automatic reconstruction of fully volumetric 3d building models from oriented point clouds, isprs j. photogram. rem. sens., 2019, 151, 251–262, 10.1016/j.isprsjprs.2019.03.017
+Bevilacqua et al. (2018)
+Akamatsu, Vascan, Drubin (2020)
+Ramtilak et al. (2005)
+Chryssolouris, G., Mavrikios, D., & Rentzos, L. (2016)
+HickeyEtAl2023
+Rosen et al. (2015)
+[22] Xia Pengcheng Huang Yixiang Tao Zhiyu Liu Chengliang Liu Jie
+DebRoy et al. (2019)
+Grieves (2014)
+error
+(figay et al, 2012a)
+18 Hiverlab
+Wang et al. (2021)
+Tao et al. (2018)
+[Bryant & Charmaz, 2007]
+Negri, E., Berardi, S., Fumagalli, L., & Macchi, M. (2020). MES-integrated digital twin frameworks. Journal of Manufacturing Systems, 56(April), 58-71.
+Haarnoja et al., 2018
+Zhong, R.Y., et al. (2017)
+furmann et al., 2017
+aheleroff et al., 2021
+Panapakidis and Dagoumas (2016)
+Grieves, Michael (2014)
+Yun, Seongjin, Jun-Hong Park, and Won-Tae Kim (2017)
+Qi and Tao (2018)
+Batty, 2018A
+Borges (1946)
+Grieves (2019)
+Saddik (2018)
+Grieves, M. (2019)
+Kuhn 2017
+[Jafari et al., 2023]
+Grieves (2017)
+17 (Grieves & Vickers, 2017)
+mussomeli et al., 2020
+Zhang et al., 2021
+Maheshwari and Kamble (2022)
+Grieves et al. [4] 2017
+(Bergerud, 2016)
+error
+Grieves, M., 2014. Digital twin: manufacturing excellence through virtual factory replication. White paper, 1(2014), pp. 1-7.
+li, x., liu, h., wang, w., zheng, y., lv, h. & lv, z. (2022)
+nahavandi2019
+Post et al. (2009)
+Verdouw et al. (2021)
+bauernhansl, t. krüger, j. reinhart, g. schuh günther, 2016.
+[9] a. rasheed o. san t. kvamsdal
+error
+error
+error
+error
+error
+Zhang, W., Wang, X., & Zhang, Y. (2013)
+Zhang, W., Wang, X., & Zhang, Y. (2013)
+saracco2019
+Opoku et al., 2021
+Berglund et al., 2020a
+[20] collath n. tepe b. englberger s. jossen a. hesse h. aging aware operation of lithium-ion battery energy storage systems: a review j energy storage 2352152x 55 11 2022 105634 10.1016/j.est.2022.105634
+Salimi (2017)
+Dong et al., 2009
+Dong, B., Wally, B., and Ferscha, A. (2009)
+Novák et al., 2019
+Dong et al., 2009
+[56]
+error
+Wang XV, Wang LH
+Cardin, O. (2019)
+Cardin, 2019
+Monostori, 2014
+Derigent et al., (2019)
+Grieves and Vickers (2016)
+Derigent et al., 2019
+Derigent et al., 2019
+ngo2018
+Tahir, M.J., Sawal, I., Essar, M.Y., Jabbar, A., Ullah, I., Ahmed, A. (2022)
+shaw 2022
+Saddik, A.E. (2018)
+(Saddik, 2018)
+saddik a.e. et al.
+Saddik, A.E. (2018)
+4] t. bauernhansl s. hartleif t. felix the digital shadow of production - a concept for the effective and efficient information supply in dynamic industrial environments procedia cirp 72 2018 69 74 10.1016/j.procir.2018.03.188 bauernhansl t., hartleif s., felix t. the digital shadow of production - a concept for the effective and efficient information supply in dynamic industrial environments.procedia cirp 2018; 72: 69–74.10.1016/j.procir.2018.03.188.
+jones et al., 2020
+abdulshahed et al., 2015
+You, L., & Zhu, M. (2023)
+mauro and kana (2023)
+[4] r stark t damerau
+Jones et al. (2020)
+armfield (2022)
+Grieves and Vickers [18]
+f. biscarri et al., 2012
+stark t. damerau (2019)
+(Loucks et al., 2022)
+Tao et al. (2019)
+error
+Leiva, C. (2018)
+Qi (2019)
+error
+Furst et al., 2021
+Wan et al., 2019
+Stark and Damerau (2019)
+braceletisl_pages287-291
+t.linner (2013)
+[18] the gemini principles 2018 centre for digital built britain retrieved 2020-01-01 www.cdbb.cam.ac.uk the gemini principles www.cdbb.cam.ac.uk. centre for digital built britain. 2018. retrieved 2020-01-01.
+error
+error
+error
+error
+error
+error
+error
+Ford, D.N., Wolf, C.M. (2020)
+Tuegel, E.J., Ingraffea, A.R., Thomas G. Eason, T.G., Spottswood S.M. (2011)
+Eigner, 2020
+liu2020
+brosque and fischer, 2022
+ellefsen et al., 2019
+ellefsen et al., 2019
+Dimitrakopoulos G. (2021)
+Saddik (2018)
+M. Pérez-Lombard, J. Ortiz, and C. Pout (2008)
+koulamas and kalogeras (2018)
+Scarlat et al., 2018
+Haag et al., 2018
+(Haag et al., 2018)
+Kritzinger & Karner (2018)
+th-j uhlemann c lehmann r steinhilper (2017)
+bhatti mohan & raja singh 2021
+Rosen, R., Boschert, S., Sohr, A. (2018)
+[20]appl. sci. (2020)
+[27] f. tao m. zhang
+McClung, R.C., Lee Y.D., Sobotka, J.C., Moody, J.P., Bhamidipati, V., Enright, M.P., Guseman, D.B., Thomas, C.B. (2019)
+Ivanov and Dolgui (2021b)
+brynjolfsson and mitchell (2017)
+lin2021
+yu et al., 2019
+Grieves, M., & Vickers, J. (2017)
+[17] Pérez, L., Diez, E., Usamentiaga, R., & García, D. F. (2019). Industrial robot control and operator training using virtual reality interfaces. Computers in Industry, 109, 114-120. https://doi.org/10.1016/j.compind.2019.05.001.
+6-National Infrastructure Commission
+Wei (2021)
+alam and saddik, 2017
+Alam and Saddik, 2017
+Durão et al., 2018
+Grieves and Vickers, 2017
+Marr, 2017
+saddik, 2018
+Shaw and Fruhlinger, 2019
+alam and saddik, 2017
+Verdouw et al., 2015
+alm et al. 2017
+error
+error
+Parker, R. (2016)
+Grieves, M., Vickers, J., 2017
+ISO 2324
+error
+Jones, D., Snider, C., Nassehi, A., Yon J., Hicks, B. (2019)
+vrana2021
+Gartner [7]
+Branner and Sayer, 2019
+Kamble et al., 2018
+Guo et al., 2019
+Hasan et al., 2020
+The reference cited in the definition is Lu and Xu (2019).
+error
+AIAA (2020)
+schroeder, g.n., steinmetz, c., pereira, c.e., & espindola, d.b. (2016)
+General Electric (2016)
+[4] GE Digital Minds + Machines 2016, Meet the Digital Twin https://www.youtube.com/watch?v=2DCz3ol2RTw 2016 GE Digital. Minds + Machines 2016, Meet the Digital Twin. Published 2016. Accessed Sept. 14, 2021. https://www.youtube.com/watch?v=2DCz3ol2RTw
+(ibm, 2021)
+Siemens (7)
+Deloitte (2017)
+Grieves, M. & Vickers, J. (2017)
+Grieves, M., & Vickers, J. (2017)
+Digital Twin Consortium (2018)
+Digital Twin Consortium (2021)
+Hämäläinen, 2021
+Boschert, Stefan; Rosen, Roland (2016)
+Miettinen R, Paavola S. Beyond the BIM utopia: Approaches to the development and implementation of building information modeling. Automation in Construction. 2014;43:84-91. doi:10.1016/j.autcon.2014.03.009.
+[9] borowski et al. (2021)
+[5] d.-g.j. opoku, s. perera, r. osei-kyei, m. rashidi, digital twin application in the construction industry: a literature review, j. build. eng., 40 (2021) 102726.
+q. qi f. tao y. zuo d. zhao digital twin service towards smart manufacturing procedia cirp 72 2018 237 242
+[43] m. soori b. arezoo dimensional and geometrical errors of three-axis cnc milling machines in a virtual machining system comput. aided des. 45 2013 1306 1313
+Yi et al. (2021)
+LengLiu2021
+Stavropoulos, P., & Mourtzis, D. (2022). Digital twins in industry 4.0, Design and operation of production networks for mass personalization in the era of cloud technology. Elsevier, 277-316.
+Huang Z., Shen Y., Li J., Fey M., Brecher C. (2021)
+Evans et al., 2020
+evans, 2020
+Tao, F., Sui, F., Liu, A., Qi, Q., Zhang, M., Song, B., Guo, Z., Lu, S., Nee, A. (2018)
+nyberg, 2005
+[9] j. zhang j.c. cheng w. chen k. chen digital twins for construction sites: concepts, lod definition, and applications j. manag. eng. 38 2 2022 04021094 10.1061/(asce)me.1943-5479.0000948 j. zhang, j.c. cheng, w. chen, k. chen, digital twins for construction sites: concepts, lod definition, and applications, journal of management in engineering 38(2) (2022) 04021094. http://doi.org/10.1061/(asce)me.1943-5479.0000948
+bchen2017
+cheng et al., 2018
+Mendonca et al., 2022
+(Wang et al., 2021)
+Smiatek et al., 2020
+Batty (2018)
+Aheleroff et al. (2021)
+Semeraro et al. (2021)
+Aheleroff et al. (2021)
+Wang et al. (2022)
+Negri, Fumagalli, & Macchi (2017)
+[Uhlemann et al., 2017]
+Tao, F., Cheng, J., Qi, Q., Zhang, M., Zhang, H., & Sui, F. (2017)
+Kuhn (2017)
+ausbrooks et al., 2014
+error
+error
+McCoy and Aure (2019)
+Kabugo, J., Jämsä-Jounela, S-L. (2019)
+Grieves (2014)
+Kraft (2016)
+Boschert and Rosen [8]
+Grieves (2014)
+Grieves (2014)
+Rossi et al. (2022)
+aheleroff et al., 2021b
+defraeye, t. et al. (2019)
+error
+10Kušić & Schumann & Ivanjko, 2023
+error
+allegrini et al., 2015
+error
+[Conejos Fuertes et al., 2020]
+Rasheed et al., 2020
+[1] j. song et al. (2023)
+f. tao et al. (2018)
+defraeye et al., 2013
+Gwanpua et al., 2015
+Barricelli et al. (2019)
+Glaessgen and Stargel (2012)
+(Tao et al., 2018)
+[10] f. tao, h. zhang, a. liu, a. nee, digital twin in industry: state of the art, ieee trans. ind. inform. 15 (4) (2018) 2405–2415
+Change2Twin, 2021
+defraeye et al. (2021)
+Rosen, R., von Wichert, G., Lo, G., & Bettenhausen, K. D. (2015)
+Rosen, R., von Wichert, G., Lo, G., & Bettenhausen, K. D. (2015)
+El Saddik A. (2018)
+Rosen R., von Wichert G., Lo G., Bettenhausen K.D. (2015)
+Song et al., 2019
+he's reference is cited in the definition is [12] (Tao et al., 2019)
+Rosen, R., von Wichert, G., Lo, G., & Bettenhausen, K. D. (2015)
+Nagarajan, S. et al. (2022)
+W. Yang, K. Yoshida, and S. Takakuwa (2017)
+Chryssolouris (2013)
+error
+Zhang H, Zhang G, Yan Q.
+aramco, 2021
+Defraeye, T. et al., 2019
+Rasheed et al., 2020
+Daems (2020)
+Grieves (2019)
+Rosen et al. (2015)
+error
+error
+m. eigner (2014)
+Tsarev and Andreev (2021)
+Soares et al., 2019
+Schwartz SM, Wildenhaus K, Bucher A, Byrd B (2020)
+[34] feng x, he x, lu l, ouyang m. analysis on the fault features for internal short circuit detection using an electrochemical-thermal coupled model. j electrochem soc 2018;165. doi:10.1149/2.0501802jes.
+c. semeraro m. lezoche h. panetto e.m. dassisti (2021)
+[Grieves 2017]
+[10] a. marra s. gerbino a. greco g. fabbrocino combining integrated informative system and historical digital twin for maintenance and preservation of artistic assets sensors 21 17 2021 5956
+[95]
+xw xu s.t. newman (2006)
+Botkina et al. (2018)
+(Rosen & von Wichert, 2015)
+Knapp, G.L., Mukherjee, T., Zuback, J.S., Wei, H.L., & Palmer, T.A. (2017)
+botkin et al. (2018)
+Knapp and Mukherjee (2017)
+Tao & Zhang (2019)
+Lu et al. (2019)
+abramovici2017
+Alam & El Saddik (2017)
+[3] f. bonomi r. milito j. zhu sateesh addepalli cisco systems inc fog computing and its role in the internet of things 2012 170 w tasman dr. san jose, ca 95134, usa flavio bonomi, rodolfo milito, jiang zhu, sateesh addepalli cisco systems inc, “fog computing and its role in the internet of things “, 170 w tasman dr. san jose, ca 95134, usa
+Alam, K.M., Saini, M., El Saddik, A. (2015)
+Alam, K.M., Saini, M., El Saddik, A. (2015)
+Alam & El Saddik (2017)
+Alam, K. M., Saini, M., & El Saddik, A. (2015)
+ahneleroff et al. [64]
+(barnett and gosselin, 2015)
+Li et al., 2018
+Zheng et al., 2020
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+error
+bakdi et al., 2019
+bakdi et al., 2019
+[Xiong et al., 2015]
+Grieves and Vickers 2017
+Acatech 2013
+Acatech 2013
+agarwal, r., & dhar, v. (2014)
+Rodrigues and Ferreira (2021)
+[8] lu et al. (2020)
+20 a. ambaw m.a. delele t. defraeye q.t. ho l.u. opara b.m. nicolaï p. verboven
+Tao et al. (2018)
+Schwenke et al. (2008)
+International Atomic Energy Agency, 2019
+error
+Defraeye et al. (2019)
+error
+error
+error
+Rodriguez-Aguilar and Marmolejo-Saucedo (2020)
+Grieves & Vickers (2017)
+Grieves, M., & Vickers, J. (2017)
+error
+Korth, Schwede, & Zajac (2018)
+Grieves (2014)
+Glaessgen, E.H. and Stargel, D.S. (2012)
+Sayer et al., 2020
+[1] e. negri l. fumagalli m. macchi a review of the roles of digital twin in cps-based production systems procedia manuf. 11 2017 939 948 e. negri, l. fumagalli, m. macchi, a review of the roles of digital twin in cps-based production systems, procedia manuf. 11 (2017) 939–948.
+Negri, Fumagalli, Macchi (2017)
+alam and el saddik, 2017
+Madubuike et al., 2022
+Pop K., Panning L., & Sextro W. (2003)
+[2] k. ding y. zhang f.t.s. chan c. zhang j. lv q. liu j. leng h. fu a cyber-physical production monitoring service system for energy-aware collaborative production monitoring in a smart shop floor j. cleaner prod. 297 2021 126599 10.1016/j.jclepro.2021.126599
+Yang et al. [7]
+Kao, H.-L., Mohan, M., Schmandt, C., Paradiso, J. A., Vega, K. (2016)
+Zhu J. (2008)
+(Rosen et al., 2015)
+Fagherazzi, G. (2020)
+Li et al., 2019
+error
+error
+error
+tuegel ej, ingraffea ar, eason tg, spottswood sm. reengineering aircraft structural life prediction using a digital twin. int j aerospace eng; 2011.
+(holler m, uebernickel f, brenner w, 2016)
+Caers, 2011
+batty, 2018
+batty, 2018
+deng et al., 2021
+error
+error
+error
+error
+error
+error
+[3] a. el saddik
+Sharma et al. (2022)
+AnyLogistix (2020)
+AnyLogistix, 2020
+error
+anumba and roofigari-esfahan, 2020
+12: f. tao q. qi a. liu a. kusiak data-driven smart manufacturing j manuf syst 48 2018 157 169
+Yi (2021)
+Grieves (2019)
+Saddik (2018)
+Grieves, M. (2019)
+Tao and Qi (2017)
+Tao and Qi (2019)
+aiaa, 2020
+Glaessgen and Stargel (2012)
+Tao et al. (2017)
+defense acquisition university (2016)
+error
+Hinduja et al. (2020)
+kagermann h. wahlster w. helbig j. (2013)
+Grieves (2016)
+seidel et al., 2022
+error
+Tuegel et al. (2011)
+tang et al., 2023
+[Wang et al., 2021]
+Nativi et al. (2020)
+barricelli et al., 2019
+IBM-2 (barricelli et al., 2019)
+griffith and truelove, 2021
+(Deloitte Insights, 2007)
+Grieves & Vickers(2016)
+Tao, et al.(2018)
+EI Saddik(2018)
+Gemini Principles(2018)
+(Honda, 2021)
+Glaessgen and Stargel, 2012
+Tao and Zhang (2017)
+Kannan, K. Arunachalam, N. (2019)
+[10] - b. schleich n. anwer l. mathieu s. wartzack shaping the digital twin for design and production engineering cirp ann. 66 2017 141 144 10.1016/j.cirp.2017.04.040.
+e.e.h. glaessgen, d.d.s. stargel, the digital twin paradigm for future nasa and us air force vehicles, in: 53rd aiaa/asme/asce/ahs/asc structures structural dynamics and materials conference 20th aiaa/asme/ahs adaptive structures conference 14th aiaa, 2012: p. 1818.
+Peng et al., 2018
+Tao et al., 2019
+l. wang (2020)
+Bärring et al., 2020
+Geran Malek et al., 2021
+Geran Malek et al., 2021
+Geran Malek et al., 2021
+Stracquatanio, 2018
+error
+qaiser et al., 2022
+Gursoy (2022)
+(McKinsey, 2017)
+vachálek et al. (2017)
+rajx2021x267
+[5] lu, y., liu, c., wang, k.i.-k., huang, h., xu, x. (2020)
+[11]
+Fuller et al. (2020)
+Aumeunier et al. (2021)
+4 d. t. kuhn, informatiklexikon - digitaler zwilling. fraunhofer iese, kaiserslautern. https://gi.de/informatiklexikon/digitaler-zwilling/
+Stark & Damerau (2019)
+Tuegel et al. (2011)
+Lin et al., 2021
+error
+Papacharalampopoulos et al. (2020)
+Chen, 2017
+Nielsen et al. (2020)
+Philipp (2020)
+Yao et al. (2021)
+Park s.-m. Kim y.-g. (2022)
+American Petroleum Institute, 2001
+chen zhen, ding xiao, tang jianjun. (2018)
+[8] Jones et al. (2020)
+(zhu, 2022)
+fard et al. (2019)
+Boschert & Rosen (2016)
+[3] digital twin consortium defines digital twin. digital reflections | digital twin consortium. accessed march 17, 2021. https://blog.digitaltwinconsortium.org/2020/12/digital-twin-consortium-defines-digital-twin.html.
+[3] digital twin consortium defines digital twin. digital reflections | digital twin consortium. accessed march 17, 2021. https://blog.digitaltwinconsortium.org/2020/12/digital-twin-consortium-defines-digital-twin.html.
+Monod, J. (1949)
+tao f. zhang m. (2017)
+negri et al. (2017)
+Grieves, M (2014)
+Alam and El Saddik, 2017
+Pylianidis et al., 2021
+Verdouw et al., 2021
+Deloitte [7]
+modonia et al. (2016)
+Glaessegen and Stargel (2012)
+lu y, liu c, wang ki-k, huang h, xu x. digital twin-driven smart manufacturing: connotation, reference model, applications and research issues. robotics and computer-integrated manufacturing 2020;61:101837. https://doi.org/10.1016/j.rcim.2019.101837.
+(Westermeier et al., 2013)
+Stark R, Anderl R, Thoben K-D, Wartzack S (2020)
+GE (2017)
+[nih 2020]
+[Zhang et al., 2019]
+Atos, 2020
+error
+error
+error
+error
+agarwal et al., 2021
+Grieves, M. (2014)
+[12] - negri e fumagalli l macchi m a review of the roles of digital twin in cps-based production systems procedia manuf
+abramovici et al., 2017
+canedo2016
+Wright (2014)
+error
+Grieves et al., 2016
+IFACOL 20482 S2405-8963(21)00302-5 10.1016/j.ifacol.2021.04.162
+IFACOL 20482 S2405-8963(21)00302-5 10.1016/j.ifacol.2021.04.162
+Grieves et al., 2016
+Babiolakis (2018)
+[1] (v. souza et al., 2019)
+Laubenbacher, R., Sluka, J.P., and Glazier, J.A. (2021)
+Shafto et al. (2010)
+Wright and Davidson (2020)
+wang q, wang w, liu m, lv j, liu j, yue g. (2021)
+ROSEN R et al. (2015)
+ROSEN 2015
+ROSEN R et al. (2015)
+ROSEN, 2015
+ROSEN (2015)
+ROSEN2015
+ROSEN R, WICHERT G V, LO G, et al. (2015)
+[NIC (National Infrastructure Commission)]
+[39] h. seaton s. cristina s.m. sepasgozar a. sawhney digital twins from design to handover of constructed assets 2022 royal institution of chartered surveyors london, uk isbn 9781783214648. retrieved jul 18, 2022, from https://www.rics.org/globalassets/wbef-website/reports-and-research/digital-twins-from-design-to-handover-of-constructed-assets.pdf
+Shohin Aheleroff, Xun Xu, Ray Zhong (2020)
+(Song et al., 2019)
+Aheleroff, S., Xu, X., and Zhong, R. Y. (2020)
+scheibe et al., (2015a)
+Zhang et al. (2022)
+[23] tran vt, thom pham h, yang bs, et al. machine performance degradation assessment and remaining useful life prediction using proportional hazard model and support vector machine mech syst signal process 32 2012 320 330.
+akanbi, t., zhang, j., lee, y.c., 2020. data-driven reverse engineering algorithm development method for developing interoperable quantity takeoff algorithms using ifc-based bim. journal of computing in civil engineering 34. doi: 10.1061/(asce)cp.1943-5487.0000909.
+Tao et al. (2018)
+error
+Wang et al. (2019)
+Kritzinger et al. (2018)
+Serik et al. (2022)
+Wang et al. (2020)
+Wang et al. (2020)
+[46] suhail, hussain, jurdak, oracevic, salah, hong (2021)
+agostinelli et al., 2021
+error
+error
+error
+Rosen et al. (2015)
+Rosen & Wichert (2015)
+Geissbauer, R., Vedso, J., & Schrauf, S. (2016)
+Grieves, M. (2015)
+CAI: AN OPTIMAL SENSOR PLACEMENT METHODOLOGY OF HYDRAULIC CONTROL SYSTEM FOR FAULT DIAGNOSIS MECH. SYST. SIGNAL PROC. 174 2022 109069 10.1016/J.YMSSP.2022.109069
+Balsano et al., 2022
+Kritizinger et al., 2018
+error
+Cardin (2019)
+Pairet et al., 2019
+Paredes-Astudillo et al., 2020
+error
+Semerano et al. (2023)
+Porter and Heppelmann (2015)
