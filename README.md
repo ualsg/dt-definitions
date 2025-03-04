@@ -18,7 +18,7 @@
   Department of Real Estate, National University of Singapore, Singapore.
 
 ---
-
+![Graphical Abstract](images/00_graphical_abstract.png)
 ## Abstract
 
 The concept of Digital Twins (DT) has attracted significant attention across various domains, particularly within the built environment. However, there is a sheer volume of definitions and the terminological consensus remains out of reach. The lack of a universally accepted definition leads to ambiguities in their conceptualization and implementation, and may cause miscommunication for both researchers and practitioners. 

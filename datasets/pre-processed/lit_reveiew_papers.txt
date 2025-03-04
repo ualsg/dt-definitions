@@ -61,11 +61,6 @@ Digital Twin: Finding Common Ground – A Meta-Review
 Application and enabling technologies of digital twin in operation and maintenance stage of the AEC industry: A literature review
 
 
-
-
-
-
-
 Manufacturing:
 
     Characterising the digital twin: A systematic literature review
@@ -119,64 +114,3 @@ Uncategorized:
     Review and comparison of the methods of designing the Digital Twin (This paper focuses on the design methods, not a specific industry)
     A review of the technology standards for enabling digital twin
 
-
-
-\begin{table}[htbp]
-    \centering
-    \caption{Digital Twin Related Literature Review Papers}
-    \begin{tabular}{|l|l|p{6cm}|}
-        \hline
-        {Category} & {References} & {Something} \\
-        \hline
-        \multirow{10}{*}{{Manufacturing}} & 
-            \cite{JONES202036} & 5 definitions
-            DT, DT Shadow, DT Prototype, and DT Environment \\ \cline{2-3}
-            & \cite{SEMERARO2021103469} & n of definitions\\ \cline{2-3}
-            & \cite{he2021digital} & n of definitions\\ \cline{2-3}
-            & \cite{Bartsch_2021} & n of definitions\\ \cline{2-3}
-            & \cite{doi:10.1080/00207543.2021.1898691} & n of definitions\\ \cline{2-3}
-            & \cite{MELESSE2020267} & n of definitions\\ \cline{2-3}
-            & \cite{app12115727} & n of definitions\\ \cline{2-3}
-            & \cite{ERRANDONEA2020103316} & n of definitions\\ \cline{2-3}
-            & \cite{10.1115/1.4049537} & n of definitions\\ \cline{2-3}
-            & \cite{SOORI2023100017} & n of definitions\\ \cline{2-3}
-        \cline{1-3}
-        \multirow{8}{*}{{Construction and Built Environment}} & 
-            \cite{OPOKU2021102726}& n of definitions \\
-            & \cite{app11156810} & n of definitions\\ \cline{2-3}
-            & \cite{chong2022digital} & n of definitions\\ \cline{2-3}
-            & \cite{su2023digital} & n of definitions\\ \cline{2-3}
-            & \cite{10.3389/fbuil.2023.1176621} & n of definitions\\ \cline{2-3}
-            & \cite{OSADCHA2023106704} & n of definitions\\ \cline{2-3}
-            & \cite{buildings12020113} & n of definitions\\ \cline{2-3}
-            & \cite{isprs-archives-XLVI-4-W3-2021-315-2022} & n of definitions\\ \cline{2-3}
-        \hline
-        \multirow{4}{*}{{Energy}} & 
-            \cite{GHENAI2022102837}  & n of definitions\\
-            & \cite{vandana2021multi} & n of definitions\\ \cline{2-3}
-            & \cite{SIFAT2023100213} & n of definitions\\ \cline{2-3}
-            & \cite{XIA2023113322} & n of definitions\\ \cline{2-3}
-        \hline
-        \multirow{3}{*}{{Transportation}} & 
-            \cite{9628341}  & n of definitions\\
-            & \cite{MAURO2023113479} & n of definitions\\ \cline{2-3}
-            & \cite{en14164919} & n of definitions\\ \cline{2-3}
-        \hline
-        \multirow{1}{*}{{Healthcare}} & 
-            \cite{lin2022human}  & n of definitions\\
-        \hline
-        \multirow{4}{*}{{Other Industries}} & 
-            \cite{yang2021developments} \\
-            & \cite{9429703} & n of definitions\\ \cline{2-3}
-            & \cite{NGUYEN2022108381} & n of definitions\\ \cline{2-3}
-            & \cite{10055149} & n of definitions\\ \cline{2-3}
-        \hline
-        \multirow{5}{*}{{General topics}} & 
-            \cite{9327756}  & n of definitions\\
-            & \cite{app11062767} & n of definitions\\ \cline{2-3}
-            & \cite{DOAMARAL2023113891} & n of definitions\\ \cline{2-3}
-            & \cite{ADAMENKO202027} & n of definitions\\ \cline{2-3}
-            & \cite{wang2022review} & n of definitions\\ \cline{2-3}
-        \hline
-    \end{tabular}
-\end{table}
