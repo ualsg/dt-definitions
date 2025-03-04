@@ -3,19 +3,19 @@
 ## Authors
 
 - Mahmoud Abdelrahman  
-  Department of Architecture, National University of Singapore, Singapore.  
+  - Department of Architecture, National University of Singapore, Singapore.  
 - Edgardo Macatulad
-  Department of Architecture, National University of Singapore, Singapore. 
-  Department of Geodetic Engineering, University of the Philippines, Philippines.  
+  - Department of Architecture, National University of Singapore, Singapore. 
+  - Department of Geodetic Engineering, University of the Philippines, Philippines.  
 - Binyu Lei  
-  Department of Architecture, National University of Singapore, Singapore. 
+  - Department of Architecture, National University of Singapore, Singapore. 
 - Matias Quintana  
-  Future Cities Lab Global Programme, Singapore-ETH Centre, Singapore. 
+  - Future Cities Lab Global Programme, Singapore-ETH Centre, Singapore. 
 - Clayton Miller  
-  Department of the Built Environment, National University of Singapore, Singapore.  
-- Filip Biljecki (Corresponding Author)
-  Department of Architecture, National University of Singapore, Singapore.  
-  Department of Real Estate, National University of Singapore, Singapore.
+  - Department of the Built Environment, National University of Singapore, Singapore.  
+- Filip Biljecki
+  - Department of Architecture, National University of Singapore, Singapore.  
+  - Department of Real Estate, National University of Singapore, Singapore.
 
 ---
 ![Graphical Abstract](images/00_graphical_abstract.png)
@@ -65,9 +65,8 @@ If you reference this work, please use the following BibTeX citation:
   year      = {2025},
   volume    = {TBD},
   number    = {TBD},
-  pages     = {TBD},
-  publisher = {Elsevier},
-  doi       = {TBD}
+  pages     = {112748},
+  doi       = {10.1016/j.buildenv.2025.112748}
 }
 ```
 
