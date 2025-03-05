@@ -55,7 +55,9 @@ One of the key findings is that the definition of digital twins has not yet reac
 ---
 ## How to Cite
 
-If you reference this work, please use the following BibTeX citation:
+If you reference this work in a scientific context, please cite this paper:
+
+Abdelrahman M, Macatulad E, Lei B, Quintana M, Miller C, Biljecki F (2025): What is a Digital Twin anyway? Deriving the definition for the built environment from over 15,000 scientific publications. Building and Environment, 274: 112748. doi: 10.1016/j.buildenv.2025.112748
 
 ```bibtex
 @article{abdelrahman2025digitaltwin,
@@ -63,8 +65,7 @@ If you reference this work, please use the following BibTeX citation:
   author    = {Abdelrahman, Mahmoud and Macatulad, Edgardo and Lei, Binyu and Quintana, Matias and Miller, Clayton and Biljecki, Filip},
   journal   = {Building and Environment},
   year      = {2025},
-  volume    = {TBD},
-  number    = {TBD},
+  volume    = {274},
   pages     = {112748},
   doi       = {10.1016/j.buildenv.2025.112748}
 }
