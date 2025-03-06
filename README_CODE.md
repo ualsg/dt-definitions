@@ -38,10 +38,7 @@ This repository contains the code and materials for an NLP (Natural Language Pro
 # Dataset Description: 
 This is a description of the dataset:
 
-1. #### The full text raw dataset
-   - can be [downloaded from here](https://drive.google.com/file/d/1rulVrj6mB7Ts3VSz3dzsGzbSUjrd9ty_/view?usp=drive_link) (just for reference) : unzip the file into a folder called full_texts
-
-2. #### The cleaned dataset is divided into 4 categories: 
+1. #### The cleaned dataset is divided into 4 categories: 
    1. 15,000 papers where "Digital Twin" appears: 
         15,000 papers about digital twin with their metadata such as publication type, date, authors, subjects, ... etc. This dataset will be used to extract the general information about Digital Twin and funnel down to the Digital Twin in the built environment. 
         ```
